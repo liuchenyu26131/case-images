@@ -1,0 +1,71 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-06-30",
+  "shopName": "EternallawVita正分子营养店",
+  "remarks": "在微信内打开本页面可点击「购买链接」直接跳转小程序商城对应商品页",
+  "items": [
+    {
+      "id": "P001",
+      "category": "电解质与矿物质",
+      "name": "电解质矿物质定制原料",
+      "productImage": "https://mmbiz.qpic.cn/mmbiz_png/IWGEibDMgLiassdW8RRteI3MhIoiaCo2WYk0pfc3FpEBlQmIbP4HNf5icABstakzmbsj0RuDX1BSeI5mD2rInMYJ7Wric9KWG7XdycLCCiaAbVtfE/640?wx_fmt=png&from=appmsg",
+      "qrcodeImages": [
+        "https://mmbiz.qpic.cn/sz_mmbiz_png/IWGEibDMgLiavg2M31XEsjPOqeTAOiaFhlPH73BSTCKoOXiaZxOX7opuTNwBdduWB7tMBEO2SxWmm5UicBN8eAaGxKJNt9u9UENF3hERJiaLbslBo/640?wx_fmt=png&from=appmsg"
+      ],
+      "specs": [
+        "调味b版15g/条x30条450g/袋",
+        "调味a版15g/条x30条450g/袋",
+        "b版含左旋肉碱，a版不含"
+      ],
+      "priceDisplay": "¥98",
+      "guideUrl": "http://mp.weixin.qq.com/s?__biz=MzAwNTM0MjY4Mg==&mid=2247488862&idx=1&sn=eb1467040fd5c75d3b698cb7755b1d90&chksm=9b1f41ebac68c8fd81cc2b30c64345d4f55925ac3f4e93b6d158c7a9a33c969ed19dda3f7c11&scene=21#wechat_redirect",
+      "miniprogram": {
+        "appid": "wx2cdb254dce118729",
+        "nickname": "EternallawVita正分子营养店",
+        "path": "pages/goods/detail/index?bizEnv=wsc&mpVersion=2.210.8.101&alias=36bzews1o59ojvi&banner_id=f.127097215~tag_list_top.1~0~UmwrTbyD&slg=tagGoodList-default%2COpBottom%2C13744961%2CabTraceId&components_style_layout=&shopAutoEnter=5",
+        "applink": "#小程序://EternallawVita正分子营养店/XzNA68xNlH1WWUB"
+      }
+    },
+    {
+      "id": "P002",
+      "category": "维生素与辅酶",
+      "name": "活性B族全套原料粉、代灌胶囊",
+      "productImage": "https://mmbiz.qpic.cn/mmbiz_png/IWGEibDMgLiaskKPETyVOibvI6dURM8QMBvWoOhCOCAGHpXZLMr1opANOVzrhWYHs0DicYTzh88MXbmVrWlo7YyW0gfrpLhTCh13MAd00XQvs5I/640?wx_fmt=png&from=appmsg",
+      "qrcodeImages": [
+        "https://mmbiz.qpic.cn/mmbiz_png/IWGEibDMgLiaskictNNmcR5t3mGbRuqbI5wHBtf9Wyq2wD3kiatmIPibm1CHGTPMn97maxboVMw5vckz4QOt5kEfnKS4Oe6gpeia1bavKKY7cfWS4/640?wx_fmt=png&from=appmsg",
+        "https://mmbiz.qpic.cn/mmbiz_png/IWGEibDMgLiasA5IElicbB3MvaSDjlmQfQcecersJCHRBrUuK5SUjrHdfStjDtErc2v3W8xbPC03dvl2BlBlDS7KRf5yjiayCebCpyLKLUk1Seg/640?wx_fmt=png&from=appmsg"
+      ],
+      "specs": [
+        "胶囊:0.43g/粒x60粒/瓶",
+        "散装:100g/袋,配勺一平勺0.6g"
+      ],
+      "priceDisplay": "¥65-160",
+      "guideUrl": "http://mp.weixin.qq.com/s?__biz=MzAwNTM0MjY4Mg==&mid=2247488852&idx=1&sn=86c7bdaee9eb8ee84ffca38a7ea41af0&chksm=9b1f41e1ac68c8f7f046007d94b939565d82de442f76bf2e4de324ace7e3483a2156e1297bc0&scene=21#wechat_redirect",
+      "miniprogram": {
+        "appid": "wx2cdb254dce118729",
+        "nickname": "EternallawVita正分子营养店",
+        "path": "pages/goods/detail/index?bizEnv=wsc&mpVersion=2.210.8.101&alias=2xi5wg3v5jtc3ys&banner_id=f.127097215~tag_list_top.1~0~UmwrTbyD&slg=tagList-default%2COpBottom%2C13744961%2CabTraceId&components_style_layout=&shopAutoEnter=5",
+        "applink": "#小程序://EternallawVita正分子营养店/GMifImKxeckEy8b"
+      }
+    },
+    {
+      "id": "P003",
+      "category": "氨基酸与蛋白质",
+      "name": "N-乙酰半胱氨酸（NAC）粉剂",
+      "productImage": "https://mmbiz.qpic.cn/mmbiz_png/IWGEibDMgLiaskKPETyVOibvI6dURM8QMBvWoOhCOCAGHpXZLMr1opANOVzrhWYHs0DicYTzh88MXbmVrWlo7YyW0gfrpLhTCh13MAd00XQvs5I/640?wx_fmt=png&from=appmsg",
+      "qrcodeImages": [],
+      "specs": [
+        "粉剂:100g/瓶",
+        "胶囊:0.5g/粒x60粒/瓶"
+      ],
+      "priceDisplay": "¥85-128",
+      "guideUrl": "",
+      "miniprogram": {
+        "appid": "wx2cdb254dce118729",
+        "nickname": "EternallawVita正分子营养店",
+        "path": "pages/goods/detail/index?bizEnv=wsc&mpVersion=2.210.8.101&alias=3xqwert5ytc3ys&shopAutoEnter=5",
+        "applink": ""
+      }
+    }
+  ]
+}
