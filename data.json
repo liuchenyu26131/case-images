@@ -72677,5 +72677,7101 @@
     ],
     "summary": "断食自噬：生酮一天即可，高碳水需两天",
     "id": "A2301"
+  },
+  {
+    "id": "A2302",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "便秘"
+    ],
+    "supplement": [
+      "维生素C",
+      "盐",
+      "电解质"
+    ],
+    "diet": "忌口小麦制品、吃肥瘦相间的肉",
+    "outcome": {
+      "status": "明显改善",
+      "description": "给孩子忌口小麦制品后不再便秘；试红薯香蕉不能长期有效且太甜升血糖，最终靠忌口+肥瘦相间肉+VC盐电解质才有效"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173551_9596_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "便秘",
+      "儿童健康",
+      "忌口",
+      "维生素C",
+      "盐",
+      "电解质"
+    ],
+    "tp": [
+      "屏障消化与肠道",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "孩子忌口小麦加VC盐电解质后便秘改善"
+  },
+  {
+    "id": "A2303",
+    "type": "discussion",
+    "user": "黄玊宁",
+    "topic": [
+      "断食",
+      "细胞自噬",
+      "AMPK",
+      "生酮"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "解答断食多久启动细胞自噬：传统高碳水饮食需断食两天以上才有明显自噬；生酮低碳者平时胰岛素低、AMPK激活时间长，已处轻度自噬，断食一天即进入深度自噬"
+    },
+    "summary": "断食自噬：生酮一天即可，高碳水需两天",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173607_9598_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173608_9599_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "断食",
+      "细胞自噬",
+      "AMPK",
+      "生酮"
+    ],
+    "tp": [
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2304",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "电解质",
+      "经验分享"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "把电解质泡水冻成冰块当冰糕吃，一天两包泡500毫升水，称比吃冰糕健康、比别家更好喝"
+    },
+    "summary": "电解质冻冰块当冰糕吃",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173642_9608_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "电解质",
+      "经验分享"
+    ],
+    "tp": [
+      "屏障消化与肠道"
+    ]
+  },
+  {
+    "id": "A2305",
+    "type": "discussion",
+    "user": "黄玊宁",
+    "topic": [
+      "胆囊炎",
+      "饮食调整"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "解答胆囊炎：病因是常年吃盐少肉少素食多，非动物脂肪过多；方案为逐渐加盐、吃肉前盐酸甜菜碱、吃肉后复合消化酶、空腹TUDCA、每天2-4个蛋黄、基础全营养素+VC泡腾粉抗氧化抗炎，可加红光灯照胆囊、牛磺酸甘氨酸；一两个月明显好转"
+    },
+    "summary": "胆囊炎根源是盐肉少，加盐加肉加补剂修复",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173700_9614_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173701_9615_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173702_9616_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "胆囊炎",
+      "盐酸甜菜碱",
+      "TUDCA",
+      "维生素C",
+      "牛磺酸",
+      "甘氨酸"
+    ],
+    "tp": [
+      "解毒肝肾与排毒",
+      "屏障消化与肠道"
+    ]
+  },
+  {
+    "id": "A2306",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "omega3",
+      "omega6",
+      "鱼油",
+      "藻油"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "讨论omega6/3检测：减少橄榄油牛油果油、增加猪油牛油黄油后3-4个月比值达标；认为减少omega6不代表omega3充足；鱼油不稳定易氧化，藻油DHA更纯粹，四合一/九合一油加生育三烯酚防氧化；omega3补多有凝血和房颤风险，PUFA不必额外补"
+    },
+    "summary": "讨论鱼油藻油之争与omega6/3比例",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173802_9633_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173803_9634_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173805_9635_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173806_9636_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173806_9637_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "鱼油",
+      "藻油",
+      "四合一油",
+      "omega3",
+      "omega6",
+      "检测"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "能量线粒体与代谢"
+    ]
+  },
+  {
+    "id": "A2307",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "高血压",
+      "糖瘾",
+      "鼻炎",
+      "咽炎"
+    ],
+    "supplement": [],
+    "diet": "生酮、纯肉饮食",
+    "outcome": {
+      "status": "明显改善",
+      "description": "婆婆高血压起初抗拒生酮，现主动问送饭，血压从吃药160降到145、瘦5斤；本人20年重度糖瘾纯肉20多天未碰糖；鼻炎咽喉炎纯肉第一天好很多；纯肉生酮拉低多巴胺基线，放纵餐也不想吃太多碳水"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180327_9834_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "高血压",
+      "糖瘾",
+      "鼻炎",
+      "咽炎",
+      "纯肉饮食",
+      "生酮"
+    ],
+    "tp": [
+      "血管血液与微循环",
+      "神经睡眠与脑雾"
+    ],
+    "summary": "婆婆血压160降到145，本人糖瘾鼻炎纯肉改善"
+  },
+  {
+    "id": "A2308",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "发育迟缓"
+    ],
+    "supplement": [
+      "基础全营养素",
+      "复合盐藻多糖胶囊",
+      "布拉迪酵母菌",
+      "四件套"
+    ],
+    "diet": "纯肉饮食，一丁点碳水不给，各种肉+肝脏+脂肪都吃",
+    "outcome": {
+      "status": "明显改善",
+      "description": "女儿5个半月会爬、6月龄扶站，对比第一个孩子6月龄才翻身、10月龄扶站，发育明显超前；分享纯肉加补剂、肠道修复经验，强调各种肉和肝脏脂肪都要吃，过渡期用复合盐藻多糖胶囊和布拉迪酵母菌修复肠漏"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181032_9932_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181048_9933_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181049_9934_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181050_9935_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181050_9936_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181051_9937_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181101_9938_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181102_9939_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "发育迟缓",
+      "儿童健康",
+      "纯肉饮食",
+      "肠道修复",
+      "布拉迪酵母菌"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "屏障消化与肠道"
+    ],
+    "summary": "纯肉加补剂育儿，女儿5个半月会爬6月龄扶站"
+  },
+  {
+    "id": "A2309",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "过敏",
+      "肠漏",
+      "感染"
+    ],
+    "supplement": [
+      "维生素C",
+      "锌",
+      "布拉迪酵母菌"
+    ],
+    "diet": "纯肉饮食",
+    "outcome": {
+      "status": "明显改善",
+      "description": "为孩子过敏肠漏找方法一年多，试遍免疫因子药、功能医学检测、锌VC补剂都只缓解不根治，转中医也无效；认可黄老师直接点明饮食根源，纯肉后不再依赖药物，这一年多母女都没怎么感冒"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181810_9971_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181811_9972_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181814_9973_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181815_9974_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181826_9975_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181827_9976_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181828_9977_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181829_9978_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181830_9979_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181842_9980_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "过敏",
+      "肠漏",
+      "锌",
+      "维生素C",
+      "儿童健康"
+    ],
+    "tp": [
+      "免疫自免与过敏",
+      "屏障消化与肠道"
+    ],
+    "summary": "为娃过敏肠漏找方法一年多，认可饮食根源"
+  },
+  {
+    "id": "A2310",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "闭经"
+    ],
+    "supplement": [
+      "基础全营养素"
+    ],
+    "diet": "纯肉饮食",
+    "outcome": {
+      "status": "明显改善",
+      "description": "停经5年后例假自主恢复，21年身体不好爆瘦后闭经，24年开始生酮、纯肉加补剂一年恢复健康；33岁，称非常幸运，男友求婚成功、胸也变大"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182419_10020_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182431_10021_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182432_10022_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182432_10023_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182433_10024_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "闭经",
+      "纯肉饮食",
+      "基础全营养素",
+      "女性健康"
+    ],
+    "tp": [
+      "内分泌与激素调控",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "停经5年后纯肉加补剂一年例假自主恢复"
+  },
+  {
+    "id": "A2311",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "牙菌斑"
+    ],
+    "supplement": [],
+    "diet": "纯肉饮食",
+    "outcome": {
+      "status": "明显改善",
+      "description": "转发微碱性唾液再矿化内容，称以前吃碳水不管一天刷多少次牙都有牙菌斑，改纯肉饮食后牙齿干净清爽，不用牙膏刷牙也没有牙菌斑"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182521_10031_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "牙菌斑",
+      "纯肉饮食",
+      "经验分享"
+    ],
+    "tp": [
+      "运动五官与结缔组织",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "纯肉饮食后牙菌斑消失不用牙膏"
+  },
+  {
+    "id": "A2312",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "皮肤差"
+    ],
+    "supplement": [
+      "基础全营养素"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "有所改善",
+      "description": "群友反馈自从吃了营养素以后，人就更容易白了"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173552_9597_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "皮肤差",
+      "美白",
+      "基础全营养素"
+    ],
+    "tp": [
+      "运动五官与结缔组织",
+      "氧化还原与抗氧化防御"
+    ],
+    "summary": "吃营养素后皮肤更容易变白"
+  },
+  {
+    "id": "A2313",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "失眠",
+      "心悸"
+    ],
+    "supplement": [
+      "盐",
+      "钾",
+      "镁",
+      "电解质"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "以前四五点早醒白天没精力、还有心悸，按黄老师说的补盐补钾补镁并把电解质吃够后，早醒能接着睡、白天不累，心悸消失；加量镁钾后睡眠不错精神更足，早上还喝盐水补钠"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173609_9600_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "失眠",
+      "心悸",
+      "盐",
+      "钾",
+      "镁",
+      "电解质"
+    ],
+    "tp": [
+      "神经睡眠与脑雾",
+      "血管血液与微循环"
+    ],
+    "summary": "补盐钾镁电解质后早醒心悸改善睡眠变好"
+  },
+  {
+    "id": "A2314",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "低盐饮食",
+      "盐",
+      "免疫力",
+      "口气"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "举例亲戚低盐低脂饮食口气很大、洗脸毛巾几天就烂、胆囊切除后查出肺癌，认为身上杂菌太多免疫力就差；分享自己不算食物每天吃盐5克以上、加电解质水10克、早上空腹5-6克盐，并加甘氨酸和VC喝水"
+    },
+    "summary": "低盐饮食危害举例与大量吃盐经验",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173609_9601_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "盐",
+      "低盐饮食",
+      "免疫力",
+      "口气",
+      "甘氨酸",
+      "维生素C"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "免疫自免与过敏"
+    ]
+  },
+  {
+    "id": "A2315",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "盐",
+      "酮值",
+      "生酮饮食"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "反馈听黄老师的补了点盐后酮值拉到0.6，强调盐真是不能少"
+    },
+    "summary": "补盐后酮值拉到0.6强调盐不能少",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173610_9602_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "盐",
+      "酮值",
+      "生酮饮食"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "屏障消化与肠道"
+    ]
+  },
+  {
+    "id": "A2316",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "反酸",
+      "胃炎"
+    ],
+    "supplement": [],
+    "diet": "生酮饮食",
+    "outcome": {
+      "status": "明显改善",
+      "description": "3月初CT查出胃食管反流、慢性胃炎，生酮两个月就全部逆转；认为抖音上各种养胃说法方向错了"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173625_9603_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "反酸",
+      "胃炎",
+      "胃食管反流",
+      "生酮饮食"
+    ],
+    "tp": [
+      "屏障消化与肠道",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "生酮两月逆转胃食管反流和慢性胃炎"
+  },
+  {
+    "id": "A2317",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "咽炎",
+      "反酸"
+    ],
+    "supplement": [],
+    "diet": "纯肉饮食、生酮饮食、断食，一餐里把碳水拉到最低",
+    "outcome": {
+      "status": "明显改善",
+      "description": "探讨咽炎本质是胃食管反流，自述胃食管反流引起慢性咽炎、喉咙随时像有痰卡着；一餐把碳水拉到最低即缓解八九成，纯肉基本没有，断食期间状态最好；高考期间出现反流到大学一直有，尝试纯肉后缓解很多，去食堂吃面条到一半就反流"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173626_9604_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "咽炎",
+      "反酸",
+      "胃食管反流",
+      "纯肉饮食",
+      "生酮饮食",
+      "断食"
+    ],
+    "tp": [
+      "屏障消化与肠道",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "咽炎本质是胃食管反流，低碳纯肉断食缓解"
+  },
+  {
+    "id": "A2318",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "口气"
+    ],
+    "supplement": [
+      "漱口水"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "强烈推荐宁哥的漱口水，按睡前三部曲使用后口气再也没有一点异味、口腔非常清爽；之前那包用完找不到只能重新再买"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173627_9605_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "口气",
+      "漱口水",
+      "口腔"
+    ],
+    "tp": [
+      "运动五官与结缔组织",
+      "屏障消化与肠道"
+    ],
+    "summary": "漱口水睡前三部曲后口气全消口腔清爽"
+  },
+  {
+    "id": "A2319",
+    "type": "case",
+    "user": "群友",
+    "problem": [],
+    "supplement": [
+      "基础全营养素"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "群友反馈吃了营养素后牙齿真的变坚固很多，另一位群友有同样感觉，起初还以为是巧合"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173628_9606_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "牙齿",
+      "基础全营养素"
+    ],
+    "tp": [
+      "运动五官与结缔组织"
+    ],
+    "summary": "吃营养素后牙齿变坚固很多"
+  },
+  {
+    "id": "A2320",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "鼻炎",
+      "咽喉痛"
+    ],
+    "supplement": [
+      "维生素C",
+      "NAC"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "儿子前两天没吃补剂后流鼻涕、喉咙痛，泡了一包VC和两粒NAC还没喝完就说已经好了"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173629_9607_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "鼻炎",
+      "咽喉痛",
+      "儿童健康",
+      "维生素C",
+      "NAC"
+    ],
+    "tp": [
+      "免疫自免与过敏",
+      "氧化还原与抗氧化防御"
+    ],
+    "summary": "儿童流鼻涕喉咙痛泡VC加NAC很快好转"
+  },
+  {
+    "id": "A2321",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "水肿",
+      "脱发"
+    ],
+    "supplement": [],
+    "diet": "纯肉饮食，脂肪拉高到每天100克",
+    "outcome": {
+      "status": "明显改善",
+      "description": "之前5年生酮做得不好，去年开始下肢下午就肿胀、脱发；今年过年后改纯肉饮食，最近一个多月脂肪拉高到每天100克后体感更好，脱发不脱了、腿也不怎么肿了"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173643_9609_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "水肿",
+      "脱发",
+      "纯肉饮食",
+      "生酮饮食"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "运动五官与结缔组织"
+    ],
+    "summary": "纯肉拉高脂肪后下肢水肿脱发改善"
+  },
+  {
+    "id": "A2322",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "睡眠差"
+    ],
+    "supplement": [],
+    "diet": "生酮饮食（从半植物饮食转变）",
+    "outcome": {
+      "status": "明显改善",
+      "description": "本来是半植物饮食，看了群主视频后认知改变、从入群第一天起执行生酮饮食，现在睡眠质量与代谢状况都有很大改善；称群主每周直播答疑干货多"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173644_9610_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "睡眠差",
+      "生酮饮食",
+      "代谢"
+    ],
+    "tp": [
+      "神经睡眠与脑雾",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "半植物转生酮后睡眠与代谢大幅改善"
+  },
+  {
+    "id": "A2323",
+    "type": "discussion",
+    "user": "黄玊宁",
+    "topic": [
+      "眼干",
+      "老花眼",
+      "补剂方案"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "解答眼睛干涩、有点老花（看手机多）：基础全营养素+维C泡腾粉、胶原蛋白肽、九合一油、维生素A胶囊、硫辛酸胶囊、NAC胶囊、甘氨酸，并配合红光产品"
+    },
+    "summary": "眼睛干涩老花的补剂加红光方案",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173645_9611_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "眼干",
+      "老花眼",
+      "基础全营养素",
+      "维C泡腾粉",
+      "胶原蛋白肽",
+      "九合一油",
+      "维生素A",
+      "硫辛酸",
+      "NAC",
+      "甘氨酸",
+      "红光产品"
+    ],
+    "tp": [
+      "运动五官与结缔组织",
+      "氧化还原与抗氧化防御",
+      "物理干预与能量医学"
+    ]
+  },
+  {
+    "id": "A2324",
+    "type": "discussion",
+    "user": "黄玊宁",
+    "topic": [
+      "力量训练",
+      "碳水",
+      "电解质",
+      "盐",
+      "运动表现"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "讲解力量训练后要不要补快碳看需求：训练强度大、频率高的人需补糖原，普通人训练前可吃30到50克碳水提高表现、训练后一般不必补；关键是训练前后补足电解质和盐，训练前喝电解质粉状态好、训练后喝帮助恢复"
+    },
+    "summary": "力量训练补碳看需求，重点补电解质和盐",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173646_9612_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173659_9613_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "力量训练",
+      "碳水",
+      "电解质",
+      "盐",
+      "生酮饮食",
+      "运动表现"
+    ],
+    "tp": [
+      "运动五官与结缔组织",
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2325",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "慢炖",
+      "牛尾",
+      "牛筋",
+      "月牙骨",
+      "猪头肉",
+      "胶原蛋白"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "交作业：用带微压钢锅小火120度炖5-6小时，牛尾牛筋自动脱骨、胶质全炖进汤里、汤汁稠到黏嘴唇，加牛腩肉香更浓；烤箱100度4小时慢烤猪头肉胶质满满，可当小零食；讨论月牙骨可在拼多多购买，认为慢炖核心方法普适性强"
+    },
+    "summary": "微压锅慢炖牛尾牛筋与烤箱慢烤猪头肉",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173702_9617_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173714_9618_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173715_9619_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173716_9620_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "慢炖",
+      "牛尾",
+      "牛筋",
+      "月牙骨",
+      "猪头肉",
+      "胶原蛋白"
+    ],
+    "tp": [
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2326",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "眼袋"
+    ],
+    "supplement": [
+      "胶原蛋白肽"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "每天一包胶原蛋白肽吃了几天，大眼袋没了、脸像做了美容一样被填充，自称过敏体质且没忌嘴只喝胶原蛋白；8岁老大也每天一包，小儿子积食感冒期间每天喝脸色白胖"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173716_9621_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173717_9622_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "眼袋",
+      "胶原蛋白肽",
+      "皮肤",
+      "消化不良",
+      "儿童健康"
+    ],
+    "tp": [
+      "运动五官与结缔组织",
+      "氧化还原与抗氧化防御"
+    ],
+    "summary": "胶原蛋白肽几天消眼袋脸像做美容"
+  },
+  {
+    "id": "A2327",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "脂肪肝",
+      "高甘油三酯",
+      "生酮饮食",
+      "低碳饮食",
+      "慢性病"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "讨论生酮本身就能治疗脂肪肝，提到每天1-3克烟酸配合甜菜碱长期吃；一位朋友脂肪肝加甘油三酯高，做不到完全生酮也没戒植物油但已开始低碳；感慨慢性病年轻化、猝死年龄越来越低"
+    },
+    "summary": "生酮可治脂肪肝，朋友低碳后指标改善",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173730_9623_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "脂肪肝",
+      "高甘油三酯",
+      "生酮饮食",
+      "烟酸",
+      "无水甜菜碱"
+    ],
+    "tp": [
+      "解毒肝肾与排毒",
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2328",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "鼻炎",
+      "鼻窦炎",
+      "真菌感染",
+      "芳香精油",
+      "雾化",
+      "站桩",
+      "高压氧舱"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "分享长久难愈的鼻炎鼻窦炎要考虑霉菌/真菌感染，可用芳香精油或雾化吸入治疗；自述站桩站好了鼻窦炎，认为是全身通氧量增加，也可去做高压氧舱"
+    },
+    "summary": "久治鼻炎鼻窦炎考虑霉菌感染与增氧",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173730_9624_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "鼻炎",
+      "鼻窦炎",
+      "真菌感染",
+      "芳香精油",
+      "雾化",
+      "站桩",
+      "高压氧舱"
+    ],
+    "tp": [
+      "免疫自免与过敏",
+      "物理干预与能量医学"
+    ]
+  },
+  {
+    "id": "A2329",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "藻油",
+      "动物内脏",
+      "维生素E",
+      "维生素C",
+      "硫辛酸",
+      "辅酶Q10",
+      "抗氧化"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "认为吃内脏吃脑就不用补藻油、吃脑方案比藻油好得多；纯肉搭配VE、VC、硫辛酸、Q10一起协同抗氧化、互相还原加强效果；并以周天子吃肉平民吃粟调侃"
+    },
+    "summary": "吃内脏补脑优于藻油，纯肉配协同抗氧化",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173731_9625_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "藻油",
+      "动物内脏",
+      "维生素E",
+      "维生素C",
+      "硫辛酸",
+      "辅酶Q10",
+      "抗氧化"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "氧化还原与抗氧化防御"
+    ]
+  },
+  {
+    "id": "A2330",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "补剂",
+      "海外代购",
+      "出入境",
+      "其他杂谈"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "讨论在国外买不到黄老师的补剂，只能国内购买人肉背回，一次最多屯半年左右、太多不让入境，感慨还是在国内好"
+    },
+    "summary": "海外买补剂不便，国内购买人肉背回",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173732_9626_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "补剂",
+      "海外代购",
+      "出入境",
+      "其他杂谈"
+    ],
+    "tp": [
+      "其他/综合"
+    ]
+  },
+  {
+    "id": "A2331",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "鼻炎",
+      "哮喘"
+    ],
+    "supplement": [
+      "维生素D",
+      "维生素C",
+      "镁",
+      "鱼油",
+      "活性B族",
+      "胶原蛋白肽",
+      "肌肽锌",
+      "谷氨酰胺",
+      "基础全营养素"
+    ],
+    "diet": "低碳生酮、16+8不吃早餐、戒米面、不吃植物油、降omega6",
+    "outcome": {
+      "status": "明显改善",
+      "description": "鼻炎哮喘十几年没发作、跟营养和低碳关系大：以前一点香水味闻不了，花粉粉尘冷空气都犯鼻炎，眼睛干痒打喷嚏喉咙痒；低碳时哮喘没犯，补剂加限制性生酮后鼻炎也没怎么犯；执行16+8不吃早餐戒米面，最初补vd、vc、镁、o3、复活vb、胶原蛋白肽、肌肽锌、谷酰胺，现换成基础全营养素，吃肉不吃植物油降omega6后基本不用额外补鱼油"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173733_9627_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173745_9628_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173746_9629_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173746_9630_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173747_9631_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121173748_9632_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "鼻炎",
+      "哮喘",
+      "生酮饮食",
+      "低碳饮食",
+      "维生素D",
+      "维生素C",
+      "镁",
+      "鱼油",
+      "基础全营养素",
+      "儿童健康"
+    ],
+    "tp": [
+      "免疫自免与过敏",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "多群友鼻炎哮喘经低碳生酮加补剂痊愈"
+  },
+  {
+    "id": "A2332",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "藻油",
+      "omega3",
+      "omega6",
+      "pufa",
+      "纯肉饮食"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "讨论纯肉/狮子饮食是否需额外补藻油：结论是不需额外补，因本身o6/o3比例不高，额外补会提高omega3比重；关键是降低o6/o3总量而非你死我活，谷饲牛羊虽比例偏高但pufa总量很少，是可选项而非排斥项；pufa过多氧化沉积血管增加动脉粥样硬化风险，藻油好于磷虾油好于鱼油"
+    },
+    "summary": "纯肉无需补藻油，关键是降o6/o3总量",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175214_9702_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175215_9703_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "藻油",
+      "omega3",
+      "omega6",
+      "pufa",
+      "纯肉饮食",
+      "动脉粥样硬化",
+      "动脉硬化"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "能量线粒体与代谢"
+    ]
+  },
+  {
+    "id": "A2333",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "纯肉饮食",
+      "食量下降",
+      "饱和脂肪"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "群友反馈纯肉后食量越来越小：开始一天能吃4斤瘦肉和300多克脂肪，现在吃几块不大不小的肉就饱；认为是身体饱和脂肪多了自然吃不下太多肉，这样保持身材更简单"
+    },
+    "summary": "纯肉后食量下降，身体饱和脂肪够了",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175215_9704_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175216_9705_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "纯肉饮食",
+      "食量下降",
+      "饱和脂肪",
+      "经验分享"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "能量线粒体与代谢"
+    ]
+  },
+  {
+    "id": "A2334",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "视物模糊"
+    ],
+    "supplement": [
+      "九合一油"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "有所改善",
+      "description": "群友反馈九合一油用了5天后看东西清晰约20%，往后几天估计还有改善，打算有空去眼镜店测度数验证"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175217_9706_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "九合一油",
+      "视力",
+      "明目"
+    ],
+    "tp": [
+      "运动五官与结缔组织",
+      "能量线粒体与代谢"
+    ],
+    "summary": "九合一油用5天视物清晰约20%"
+  },
+  {
+    "id": "A2335",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "脱发",
+      "色斑"
+    ],
+    "supplement": [
+      "维生素B族"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "群友反馈吃B族后头发基本不掉发、又多又密，称B族功不可没；手上的斑也淡了好多"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175227_9707_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "脱发",
+      "色斑",
+      "维生素B族",
+      "生发"
+    ],
+    "tp": [
+      "运动五官与结缔组织",
+      "能量线粒体与代谢"
+    ],
+    "summary": "吃B族后头发又多又密、手上斑变淡"
+  },
+  {
+    "id": "A2336",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "疲劳",
+      "便秘"
+    ],
+    "supplement": [
+      "丁酸胶囊"
+    ],
+    "diet": "低碳到纯肉方向：最少低碳、最好生酮、甚至纯肉；多吃肉少吃素（红肉为主白肉为辅），减少碳水糖，不吃种子油、植物油少吃，多吃动物油脂（猪牛羊油、黄油酥油），避免小麦豆类玉米坚果及奶制品（除黄油酥油和偶尔自制A2/羊酸奶），少吃草酸凝集素和高PUFA植物、高纤维食物",
+    "outcome": {
+      "status": "明显改善",
+      "description": "群友老公低碳生酮（中午食堂、早晚不吃碳水、偶尔喝酒）吃丁酸胶囊后下午不再犯困，以前一到3点必困得像死狗，比功能医学营养品效果好且便宜；群友自己便秘也缓解。认为常规饮食的人吃补剂也有帮助，传统饮食毒素多营养少更需要补剂，生病时反而不能停营养素"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175228_9708_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175229_9709_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175230_9710_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "丁酸胶囊",
+      "疲劳",
+      "便秘",
+      "低碳生酮",
+      "补剂"
+    ],
+    "tp": [
+      "能量线粒体与代谢",
+      "屏障消化与肠道",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "老公低碳吃丁酸胶囊后下午不困"
+  },
+  {
+    "id": "A2337",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "便秘"
+    ],
+    "supplement": [
+      "盐"
+    ],
+    "diet": "纯肉饼（纯肉饮食）",
+    "outcome": {
+      "status": "明显改善",
+      "description": "群友女儿之前蔬菜搭配肉时大便1-2天一次，改为每天3克盐加纯肉饼后每天排便、黄金便一条到底，差很多"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175231_9711_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "便秘",
+      "盐",
+      "纯肉饮食",
+      "儿童健康",
+      "黄金便"
+    ],
+    "tp": [
+      "屏障消化与肠道",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "女儿3克盐加纯肉饼后每天黄金便"
+  },
+  {
+    "id": "A2338",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "头痛",
+      "头晕",
+      "肠胃疼痛"
+    ],
+    "supplement": [
+      "盐",
+      "全营养胶囊",
+      "维生素C电解质粉",
+      "三丁酸甘油三酯"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "群友喝盐水+全营养胶囊+维C电解质粉（并加三丁酸甘油三酯）后头疼脑胀缓解、睡眠变香：此前直播肠胃疼一夜、第二天脑壳疼得厉害、连续几天头昏脑胀以为脑溢血，还头晕到倒下站不稳、半夜起床上厕所站不稳；吃了好多补剂都没这么有用，感谢黄老师"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175243_9712_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175244_9713_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "头痛",
+      "头晕",
+      "盐",
+      "电解质",
+      "维生素C",
+      "三丁酸甘油三酯"
+    ],
+    "tp": [
+      "神经睡眠与脑雾",
+      "能量线粒体与代谢",
+      "屏障消化与肠道"
+    ],
+    "summary": "盐水加补剂后头痛头晕缓解，睡得香"
+  },
+  {
+    "id": "A2339",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "病毒感染",
+      "发热",
+      "头痛"
+    ],
+    "supplement": [
+      "基础营养素",
+      "维生素C"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "群友五一中招病毒，一天5包基础营养素粉剂加维C，第二天基本都好了（第一天剧烈头痛）；儿子同样中招，当晚发烧要退烧药没给，改吃两包基础营养素加一天维C，第二天状况也好多了"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175245_9714_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "病毒感染",
+      "发热",
+      "头痛",
+      "基础营养素",
+      "维生素C",
+      "儿童健康"
+    ],
+    "tp": [
+      "免疫自免与过敏",
+      "能量线粒体与代谢"
+    ],
+    "summary": "基础营养素加维C抗病毒，母子次日好转"
+  },
+  {
+    "id": "A2340",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "孕妇生酮",
+      "酮体供能",
+      "胎儿发育",
+      "低碳饮食"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "讨论孕妇能否生酮及胎儿供能：黄老师称可以但要做对，不是单纯依靠酮体而是葡萄糖+脂肪+酮体混合供能；群友分享二胎孕期低碳、大量吃牛羊肉，宝宝体质很好、头发又黑又多、一岁四个月能直接吞卤牛肝，认为酮体有利大脑发育，碳水饮食妈妈胎儿也靠酮体供能到6个月加辅食"
+    },
+    "summary": "孕妇可以生酮但要做对，是混合供能",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175246_9715_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175246_9716_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "孕妇",
+      "生酮",
+      "酮体",
+      "低碳饮食",
+      "胎儿发育"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "能量线粒体与代谢"
+    ]
+  },
+  {
+    "id": "A2341",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "面部消瘦"
+    ],
+    "supplement": [],
+    "diet": "",
+    "outcome": {
+      "status": "改善",
+      "description": "群友反馈进群一年后脸部比去年进群前饱满，不再那么瘦削显老，自己很满意"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175257_9717_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "面部饱满",
+      "抗衰",
+      "体重管理"
+    ],
+    "tp": [
+      "运动五官与结缔组织",
+      "其他/综合"
+    ],
+    "summary": "进群一年后脸部变饱满不再瘦削显老"
+  },
+  {
+    "id": "A2342",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "纯肉饮食",
+      "不馋主食",
+      "生酮"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "群友反馈纯肉后一点都不馋主食，别人在面前吃碳水都不想吃；另一群友称以前很喜欢吃面包蛋糕，现在都不吃了"
+    },
+    "summary": "纯肉后不再馋主食面包蛋糕",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175258_9718_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "纯肉饮食",
+      "主食",
+      "生酮",
+      "经验分享"
+    ],
+    "tp": [
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2343",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "糖尿病",
+      "高血糖"
+    ],
+    "supplement": [],
+    "diet": "黄老师纯肉补剂方案",
+    "outcome": {
+      "status": "明显改善",
+      "description": "群友分享妈妈55岁用黄老师纯肉补剂方案四个月后，几年没见的老同学夸皮肤白皙细腻、身材好、脸紧致，硬测出血糖5；妈妈有糖尿病家族史（姥爷打三十多年胰岛素、眼睛快被并发症搞看不见，妈妈四十岁出头因糖尿病住院两次），在高强度工作熬夜不运动下状态大好；群友强制干预妈妈一起吃饭吃补剂，看到好处后妈妈自觉坚持"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175258_9719_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175259_9720_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175300_9721_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "糖尿病",
+      "血糖",
+      "纯肉饮食",
+      "补剂",
+      "皮肤",
+      "女性健康"
+    ],
+    "tp": [
+      "内分泌与激素调控",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "妈妈纯肉补剂4个月血糖5皮肤紧致"
+  },
+  {
+    "id": "A2344",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "减肥",
+      "体重管理",
+      "体质差",
+      "肠胃"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "群友后悔以前177cm减肥到104斤，那时体质一塌糊涂、身上这点肉扛不住一场病，直到肠胃出问题才觉醒；现在打算先吃回120斤再继续运动"
+    },
+    "summary": "减肥到104斤体质差，打算吃回120斤",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175311_9722_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "减肥",
+      "体重管理",
+      "体质",
+      "肠胃"
+    ],
+    "tp": [
+      "能量线粒体与代谢",
+      "其他/综合"
+    ]
+  },
+  {
+    "id": "A2345",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "纯肉适应期",
+      "生酮",
+      "胰岛素抵抗",
+      "癫痫",
+      "恶心反胃"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "讨论纯肉初期适应过程：群友称纯肉前两三个月吃肉吃到恶心反胃、多吃一口喉咙紧咽不下去、抗拒排斥，靠少食多餐坚持下来；认为没体会到身体最高程度的舒服就会觉得当下舒服，这是纯肉推不出去的第一步；纯肉生酮对胰岛素抵抗、二糖、癫痫都有特效，爆碳退酮有胰岛素抵抗会更噬糖、一个月可恢复"
+    },
+    "summary": "纯肉适应期恶心反胃，坚持后逆转",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175312_9723_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "纯肉饮食",
+      "生酮",
+      "适应期",
+      "胰岛素抵抗",
+      "癫痫"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "能量线粒体与代谢"
+    ]
+  },
+  {
+    "id": "A2346",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "纯肉饮食",
+      "身体敏感",
+      "炎症反应",
+      "断食",
+      "慢性病"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "讨论纯肉后身体变敏感、吃错点食物马上炎症反应：认为这是身体干净的好事，过去不敏感是长期被伤害到无法做出反应（死猪不怕开水烫），现在敏感不是脆弱而是干净；伤害堆积到后面就出各种慢性病；群友称这几天在断食72小时做整理"
+    },
+    "summary": "纯肉后身体变敏感是干净的表现",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175313_9724_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175314_9725_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "纯肉饮食",
+      "炎症",
+      "身体敏感",
+      "断食",
+      "慢性病"
+    ],
+    "tp": [
+      "免疫自免与过敏",
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2347",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "盐",
+      "电解质",
+      "口渴"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "群友发现最近电解质和盐吃够后，一天一点都不渴，询问大家是否有同样感觉"
+    },
+    "summary": "电解质和盐吃够后一天不渴",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175315_9726_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "盐",
+      "电解质",
+      "口渴",
+      "经验分享"
+    ],
+    "tp": [
+      "屏障消化与肠道",
+      "其他/综合"
+    ]
+  },
+  {
+    "id": "A2348",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "低血压",
+      "乏力",
+      "心悸"
+    ],
+    "supplement": [
+      "盐"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "群友补盐二十多天后量血压高压107、低压70、心率67：此前低压多年都是50多、最低40多、浑身没劲一直找不到原因，看到黄老师说低压可能是盐没吃够后补盐见效；此前下午常心慌、没力气是常态，现均改善"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175327_9727_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "低血压",
+      "乏力",
+      "心悸",
+      "盐",
+      "血压"
+    ],
+    "tp": [
+      "血管血液与微循环",
+      "屏障消化与肠道"
+    ],
+    "summary": "补盐二十多天低压从50多恢复到70"
+  },
+  {
+    "id": "A2349",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "低盐低脂",
+      "高血压",
+      "盐",
+      "碳水糖种子油"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "讨论医生为何让低盐低脂：认为是教科书惯性、用了几十年、陈旧又错误、按流程办事；指出大多数高血压不是盐吃多了，而是碳水、糖、种子油吃多了甚至盐吃太少，少吃盐也没见血压下来"
+    },
+    "summary": "低盐低脂是陈旧误区，高血压多因碳水糖油",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175328_9728_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175329_9729_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "高血压",
+      "低盐",
+      "盐",
+      "碳水",
+      "种子油"
+    ],
+    "tp": [
+      "血管血液与微循环",
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2350",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "胶原蛋白肽",
+      "维生素C",
+      "补剂用量"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "群友把胶原蛋白肽当零食一天吃六七十克、随身带维C水吃完冲下去，询问是否过多；答复称没什么问题但没必要吃那么多，一般30克封顶"
+    },
+    "summary": "胶原肽一天六七十克没必要，30克封顶",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175330_9730_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "胶原蛋白肽",
+      "维生素C",
+      "补剂",
+      "用量"
+    ],
+    "tp": [
+      "运动五官与结缔组织",
+      "其他/综合"
+    ]
+  },
+  {
+    "id": "A2351",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "月子",
+      "纯肉饮食",
+      "瘦身",
+      "乳腺炎"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "群友分享月子里基本纯肉、每天两三斤，一个月瘦14斤，爸爸说太能吃；称当时不懂纯肉只是想吃且不爱吃米饭，此前因不懂饮食导致乳腺炎发胖"
+    },
+    "summary": "月子里纯肉每天两三斤，一个月瘦14斤",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175341_9732_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "月子",
+      "纯肉饮食",
+      "瘦身",
+      "女性健康",
+      "乳腺炎"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "内分泌与激素调控"
+    ]
+  },
+  {
+    "id": "A2352",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "关节痛"
+    ],
+    "supplement": [
+      "NAC",
+      "硫辛酸"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "按黄老师方法加NAC和硫辛酸后，第二天小拇指关节果然不痛了；黄老师叫加的甘氨酸还没到货，并问正分子能否对抗草酸盐倾泻，黄老师称应该有帮助"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175342_9733_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "关节痛",
+      "NAC",
+      "硫辛酸",
+      "草酸盐倾泻"
+    ],
+    "tp": [
+      "运动五官与结缔组织",
+      "解毒肝肾与排毒",
+      "氧化还原与抗氧化防御"
+    ],
+    "summary": "加NAC硫辛酸次日小拇指关节不痛"
+  },
+  {
+    "id": "A2353",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "EAA",
+      "胶原蛋白肽",
+      "蛋黄",
+      "骨髓",
+      "运动营养"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "分享撸铁后用EAA加胶原蛋白肽加蛋黄加骨髓做的营养餐"
+    },
+    "summary": "撸铁后EAA加胶原蛋白蛋黄骨髓营养餐",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175343_9734_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "EAA",
+      "胶原蛋白肽",
+      "蛋黄",
+      "骨髓",
+      "运动营养"
+    ],
+    "tp": [
+      "运动五官与结缔组织",
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2354",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "医生营养知识落后",
+      "健康知识匮乏",
+      "病急乱投医"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "感慨即使医生的营养学知识也相当落后，高学历人群健康知识匮乏，往往40岁后身体出明显毛病才关注，病急乱投医、自己按逻辑折腾，最后折腾成疾病进医院"
+    },
+    "summary": "医生营养知识落后，高学历也缺健康常识",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175344_9735_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "医生营养知识",
+      "健康知识匮乏",
+      "病急乱投医"
+    ],
+    "tp": [
+      "其他/综合",
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2355",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "长断食",
+      "晕车",
+      "高原反应",
+      "高反"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "分享自己一直有晕车症状，长断食期间貌似基本不晕车了；想尝试长断食加充足营养素去高原，看能否抗过高反"
+    },
+    "summary": "长断食期间晕车基本消失，想试防高反",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175345_9736_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "长断食",
+      "晕车",
+      "高原反应",
+      "经验分享"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "神经睡眠与脑雾"
+    ]
+  },
+  {
+    "id": "A2356",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "生酮",
+      "体检正常",
+      "少吃肉",
+      "医生认知壁垒",
+      "血脂"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "讲述在酒席上用自己生酮三年、甘油三酯0.38、血脂正常、无脂肪肝和基础病、体检一切正常的数据，反驳三甲医院主任医师少吃肉的言论；众人感慨医生认知壁垒难破、白大褂即权威"
+    },
+    "summary": "生酮三年体检正常怼医生少吃肉言论",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175356_9737_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175358_9738_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175359_9739_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "生酮",
+      "体检正常",
+      "甘油三酯",
+      "医生认知壁垒",
+      "五花肉",
+      "脂肪肝"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "血管血液与微循环",
+      "其他/综合"
+    ]
+  },
+  {
+    "id": "A2357",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "肠易激",
+      "肠漏",
+      "长痘",
+      "起疹子",
+      "睡眠差"
+    ],
+    "supplement": [
+      "谷氨酰胺",
+      "动物脂肪",
+      "椰子油"
+    ],
+    "diet": "无麸质低碳饮食，减少FODMAP食物，增加动物脂肪和肉量，不吃辛辣刺激、精加工食物和甜食",
+    "outcome": {
+      "status": "明显改善",
+      "description": "建议肠易激网友服谷氨酰胺、增加动物脂肪和椰子油、无麸质低碳减少FODMAP、忌辛辣刺激和甜食；后来能吃肉不犯病、肠易激改善不少，肠漏导致的长痘、起疹子、睡眠差在饮食改善后都消失"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175400_9740_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175401_9741_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175411_9742_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "肠易激",
+      "肠漏",
+      "谷氨酰胺",
+      "动物脂肪",
+      "无麸质饮食",
+      "长痘"
+    ],
+    "tp": [
+      "屏障消化与肠道",
+      "饮食结构与膳食模式",
+      "运动五官与结缔组织"
+    ],
+    "summary": "谷氨酰胺无麸质低碳饮食改善肠易激肠漏"
+  },
+  {
+    "id": "A2358",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "手脚痛"
+    ],
+    "supplement": [
+      "基础全营养素",
+      "维生素C",
+      "电解质"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "营养素加维C对个人非常有用，以前的手脚痛现在没再发生，停一段时间不喝就要发作、一吃就消失；目前只喝营养素加电解质加维C，未额外补维生素D和A"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175412_9743_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "手脚痛",
+      "维生素C",
+      "基础全营养素",
+      "电解质"
+    ],
+    "tp": [
+      "氧化还原与抗氧化防御",
+      "运动五官与结缔组织"
+    ],
+    "summary": "营养素加维C后手脚痛消失停则复发"
+  },
+  {
+    "id": "A2359",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "水肿",
+      "胰岛素抵抗",
+      "多囊卵巢综合征"
+    ],
+    "supplement": [
+      "钾",
+      "镁",
+      "盐"
+    ],
+    "diet": "不吃外卖，避免高钠，盐按黄老师方法吃",
+    "outcome": {
+      "status": "明显改善",
+      "description": "大学生群友因常吃外卖高钠、缺钾镁导致脸部水肿，问宁哥后才明白；补充钾元素、足量钾镁并注意盐的吃法、不吃外卖后，水肿消退、每天正常；自述传统碳水饮食导致胰岛素抵抗、多囊"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175413_9744_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175414_9745_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175415_9746_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "水肿",
+      "钾",
+      "镁",
+      "胰岛素抵抗",
+      "多囊卵巢综合征",
+      "信息壁垒"
+    ],
+    "tp": [
+      "血管血液与微循环",
+      "内分泌与激素调控",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "外卖高钠缺钾镁致水肿，补钾后消退"
+  },
+  {
+    "id": "A2360",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "氧化应激",
+      "手脚痛",
+      "维生素C",
+      "鼻炎",
+      "大剂量维生素"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "认为以前的手脚痛可能是全身应激氧化反应，维C对自己超级有用；分享大女儿鼻炎用大剂量维生素D、维生素A、维生素C效果很明显，但她不愿坚持吃"
+    },
+    "summary": "维C缓解氧化应激手脚痛与女儿鼻炎",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175426_9747_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "氧化应激",
+      "手脚痛",
+      "维生素C",
+      "鼻炎",
+      "维生素D",
+      "维生素A"
+    ],
+    "tp": [
+      "氧化还原与抗氧化防御",
+      "免疫自免与过敏"
+    ]
+  },
+  {
+    "id": "A2361",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "醉酒",
+      "头晕"
+    ],
+    "supplement": [
+      "凝结芽孢杆菌"
+    ],
+    "diet": "喝酒前吃凝结芽孢杆菌，未空腹、吃了汉堡",
+    "outcome": {
+      "status": "明显改善",
+      "description": "黄老师给出解酒方案（维C、活性B族、NAC加甘氨酸、锌硒镁、硫辛酸、辅酶Q10、凝结芽孢杆菌等）；群友喝酒前吃6片凝结芽孢杆菌，平时2两白酒就上头（约4分晕），这次喝4两全程只有2分晕，反馈非常有用"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175427_9748_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175428_9749_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175429_9750_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "解酒",
+      "凝结芽孢杆菌",
+      "醉酒",
+      "头晕"
+    ],
+    "tp": [
+      "解毒肝肾与排毒",
+      "屏障消化与肠道"
+    ],
+    "summary": "喝酒前6片凝结芽孢杆菌，4两白酒仅微晕"
+  },
+  {
+    "id": "A2362",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "纯肉饮食",
+      "生酮",
+      "认知改善",
+      "精神疾病",
+      "能量提升",
+      "饮食观念"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "交流纯肉后身体全方位提升：脑子清醒、运动表现提升、病痛减少、性腺轴完善，十年精神分裂等病痛好转；分享通过潜移默化影响身边人少吃零食饮料、放下一日三餐执念，感慨改变他人认知艰难"
+    },
+    "summary": "纯肉后身心全面提升，影响身边人改饮食观念",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175429_9751_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175441_9752_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175442_9753_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175443_9754_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175443_9755_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175444_9756_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175459_9757_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175459_9758_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "纯肉饮食",
+      "生酮",
+      "认知改善",
+      "精神疾病",
+      "饮食观念",
+      "能量提升"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "神经睡眠与脑雾",
+      "运动五官与结缔组织"
+    ]
+  },
+  {
+    "id": "A2363",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "纯肉饮食",
+      "正分子",
+      "不吃米饭"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "自述闲来看宁哥视频上瘾，加入纯肉正分子，在家里坚持不吃米饭"
+    },
+    "summary": "看宁哥视频上瘾加入纯肉正分子不吃米饭",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175500_9759_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "纯肉饮食",
+      "正分子",
+      "不吃米饭"
+    ],
+    "tp": [
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2364",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "吃肉",
+      "粮食产量",
+      "耕地",
+      "饲料",
+      "数据分析"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "用数据分析全中国人吃肉的粮食耕地问题：中国1/3粮食作饲料，若每人每天吃一斤肉需扩大肉类产量2.5倍，但总产量是饲料3倍，加上每年进口1亿吨，测算认为现有粮食足够支撑，还有富余"
+    },
+    "summary": "测算显示全国吃肉粮食耕地足够还有富余",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175501_9760_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "吃肉",
+      "粮食产量",
+      "耕地",
+      "饲料",
+      "数据测算"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "其他/综合"
+    ]
+  },
+  {
+    "id": "A2365",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "纯肉饮食",
+      "养殖用地",
+      "粮食供给",
+      "认知转变"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "讨论全体中国人纯肉饮食养殖用地够不够：认为资源绝对够用、需求会调节供给，调侃把医院大楼腾出来养猪；也指出执行困难、大众认知参差不齐，真正转变需几十年过渡"
+    },
+    "summary": "纯肉养殖用地够用，认知转变需几十年",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175502_9761_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175512_9762_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175513_9763_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "纯肉饮食",
+      "养殖用地",
+      "粮食供给",
+      "认知转变"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "其他/综合"
+    ]
+  },
+  {
+    "id": "A2366",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "感染",
+      "发热",
+      "鼻炎",
+      "咽炎"
+    ],
+    "supplement": [
+      "维生素D",
+      "镁",
+      "维生素C",
+      "基础全营养素",
+      "柠檬酸钾",
+      "活性B族",
+      "肌肽锌",
+      "三丁酸甘油酯",
+      "维生素E"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "感冒后未吃药，靠大剂量维D（加到20万）、镁、维C、基础全营养素等补剂自愈：咽炎、低烧、鼻塞逐步改善至只剩嗓子一点痒；详细记录三天补剂用量，感觉前期维D吃少了、后来大量维D好得快"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175514_9764_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "感冒",
+      "感染",
+      "发热",
+      "鼻炎",
+      "维生素D",
+      "镁",
+      "维生素C",
+      "补剂自愈"
+    ],
+    "tp": [
+      "免疫自免与过敏",
+      "氧化还原与抗氧化防御",
+      "屏障消化与肠道"
+    ],
+    "summary": "感冒靠大剂量维D镁维C补剂自愈"
+  },
+  {
+    "id": "A2367",
+    "type": "case",
+    "user": "群友",
+    "problem": [],
+    "supplement": [
+      "胶原蛋白肽",
+      "抗衰胶囊",
+      "维生素C",
+      "甜梦静息"
+    ],
+    "diet": "饮食改变（抗氧化抗糖化）",
+    "outcome": {
+      "status": "有所改善",
+      "description": "感觉脸变幼态了，猜测是胶原蛋白肽、抗衰胶囊、维C、甜梦静息共同作用，但认为主要还是饮食改变的功劳，注重抗氧化抗糖化"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175515_9765_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "脸变幼态",
+      "胶原蛋白肽",
+      "抗衰胶囊",
+      "维生素C",
+      "甜梦静息",
+      "抗氧化抗糖化"
+    ],
+    "tp": [
+      "氧化还原与抗氧化防御",
+      "运动五官与结缔组织",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "胶原蛋白肽抗衰胶囊VC甜梦加饮食脸变幼态"
+  },
+  {
+    "id": "A2368",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "脂肪肝",
+      "肝脏指标异常"
+    ],
+    "supplement": [
+      "基础全营养素"
+    ],
+    "diet": "生酮饮食",
+    "outcome": {
+      "status": "明显改善",
+      "description": "感谢黄老师，今年体检比去年轻度脂肪肝做B超已消失、转氨酶降到正常值，没吃药、仅靠生酮饮食加营养素；称以前吃药只能暂时指标正常，生酮消除脂肪肝恢复肝功能"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175516_9766_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "脂肪肝",
+      "转氨酶",
+      "生酮饮食",
+      "营养素",
+      "肝功能"
+    ],
+    "tp": [
+      "解毒肝肾与排毒",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "生酮加营养素，脂肪肝消失转氨酶正常"
+  },
+  {
+    "id": "A2369",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "基础全营养素胶囊",
+      "四件套",
+      "补剂服用体验"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "买了基础全营养素胶囊，一天吃40粒毫无不适、肚子也不咕噜，觉得胶囊太方便，吃完四件套后打算只买胶囊，但也吐槽一瓶几天就吃完"
+    },
+    "summary": "基础全营养素胶囊一天40粒方便但费得快",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175530_9767_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "基础全营养素胶囊",
+      "四件套",
+      "补剂体验"
+    ],
+    "tp": [
+      "能量线粒体与代谢",
+      "屏障消化与肠道"
+    ]
+  },
+  {
+    "id": "A2370",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "基础粉包埋",
+      "椰子油",
+      "调稠",
+      "服用技巧"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "分享把基础粉包埋调成粘稠糊状：水放少、加一点椰子油、放冰箱冷藏后变粘稠，用水送服尝不到味道、一口冲下无异味；交流用量250毫升水、两袋基础粉、加四件套"
+    },
+    "summary": "基础粉包埋加水少椰子油冷藏调稠无异味",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175530_9768_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175531_9769_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "基础全营养素",
+      "包埋",
+      "椰子油",
+      "四件套",
+      "服用技巧"
+    ],
+    "tp": [
+      "屏障消化与肠道",
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2371",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "肾炎",
+      "尿蛋白",
+      "高碳水健身",
+      "胰岛素抵抗",
+      "糖毒",
+      "蛋白质"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "讲述侄儿天天高碳水健身查出肾炎尿蛋白、医生让少吃蛋白；认为肾炎是糖毒和胰岛素高压持续冲击所致、与吃蛋白无关，医生限制蛋白只为化验单好看，提醒高碳健身者警惕，并提及侄儿全家高碳水饮食、在自己家吃大鱼大肉难受"
+    },
+    "summary": "高碳水健身致肾炎尿蛋白，与吃蛋白无关",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175532_9770_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175533_9771_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "肾炎",
+      "尿蛋白",
+      "高碳水",
+      "健身",
+      "胰岛素抵抗",
+      "蛋白质"
+    ],
+    "tp": [
+      "解毒肝肾与排毒",
+      "内分泌与激素调控",
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2372",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "低碳低脂纯素食",
+      "极低代谢",
+      "嗜睡",
+      "能量摄入",
+      "供能不足"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "回顾此前长期低碳低脂纯素食，人瘦、极低代谢、一天要睡18小时、下午无法干活；解释为能量摄入太低、供能不足，走路都走不动、肌肉掉光还生病，强调要么碳水多要么脂肪多。"
+    },
+    "summary": "素食嗜睡是能量摄入太低供能不足",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175545_9772_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175545_9773_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "素食",
+      "嗜睡",
+      "极低代谢",
+      "能量摄入",
+      "低碳低脂",
+      "供能不足"
+    ],
+    "tp": [
+      "能量线粒体与代谢",
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2373",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "免疫问题",
+      "IgG超标",
+      "炎症"
+    ],
+    "supplement": [
+      "抗炎补剂",
+      "甘氨酸",
+      "谷氨酰胺"
+    ],
+    "diet": "纯肉饮食、断食、抗炎饮食（极少促炎食物）",
+    "outcome": {
+      "status": "改善",
+      "description": "纯肉三个月体检超敏C反应蛋白仅0.25、免疫球蛋白等指标正常，自称炎症极低、免疫问题好了；身体变敏感，吃错食物立刻发炎反馈，IgG超标疑因肠漏和炎症饮食，计划半年后复查。"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175546_9774_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175547_9775_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175548_9776_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175559_9777_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175600_9778_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "炎症",
+      "免疫问题",
+      "IgG",
+      "超敏C反应蛋白",
+      "纯肉饮食",
+      "抗炎",
+      "肠漏",
+      "身体敏感"
+    ],
+    "tp": [
+      "免疫自免与过敏",
+      "功能医学检测与评估",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "纯肉三月炎症指标极低身体变敏感"
+  },
+  {
+    "id": "A2374",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "补剂",
+      "视黄醇",
+      "抗氧化",
+      "眼睛",
+      "眼底血管"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "发现最近眼睛亮了很多，不知哪种补剂起效，猜测是视黄醇和抗氧化团队对眼睛及眼底血管的作用；自嘲补剂太多搞不清，每天乱吃一大堆。"
+    },
+    "summary": "补剂后眼睛变亮猜是视黄醇抗氧化",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175601_9779_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "补剂",
+      "视黄醇",
+      "抗氧化",
+      "眼睛",
+      "眼底血管",
+      "经验分享"
+    ],
+    "tp": [
+      "运动五官与结缔组织",
+      "氧化还原与抗氧化防御"
+    ]
+  },
+  {
+    "id": "A2375",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "手凉",
+      "体温低"
+    ],
+    "supplement": [
+      "碘"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "体温37度可能和碘有关；以前手凉，现在好太多，狮子餐很久后仍手凉，但大剂量碘后似乎彻底改善。"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175602_9780_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "碘",
+      "手凉",
+      "体温",
+      "大剂量碘"
+    ],
+    "tp": [
+      "内分泌与激素调控",
+      "血管血液与微循环"
+    ],
+    "summary": "大剂量碘后手凉彻底改善体温37度"
+  },
+  {
+    "id": "A2376",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "玻尿酸",
+      "口服补剂",
+      "科学实验"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "感慨要做科学实验，觉得黄老师店里都是宝贝，惊喜发现玻尿酸也可以口服。"
+    },
+    "summary": "发现玻尿酸也可以口服",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175602_9781_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "玻尿酸",
+      "口服",
+      "补剂",
+      "其他杂谈"
+    ],
+    "tp": [
+      "其他/综合"
+    ]
+  },
+  {
+    "id": "A2377",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "感冒",
+      "咳嗽",
+      "发烧"
+    ],
+    "supplement": [
+      "维生素D"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "儿子一感冒就咳嗽发烧，去年每天6万单位维生素D咳嗽七八天不好；今年两次一上来就20万、一天分三次，两三天即好；黄老师称大力出奇迹，并分享《阳了如何吃补剂加快恢复》方案PDF参考。"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175613_9782_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "感冒",
+      "咳嗽",
+      "发烧",
+      "维生素D",
+      "儿童健康",
+      "NAC",
+      "抗氧化剂"
+    ],
+    "tp": [
+      "免疫自免与过敏",
+      "氧化还原与抗氧化防御"
+    ],
+    "summary": "儿子感冒20万维生素D两三天就好"
+  },
+  {
+    "id": "A2378",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "主流营养师",
+      "工业食品体系",
+      "人体进化生理",
+      "学术期刊",
+      "利润"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "批评主流营养师不服从人体亿万年进化生理、反而服从仅百年的工业食品体系，属短视；并指出柳叶刀、新英格兰医学杂志等顶级期刊隶属上市出版集团，首要目标是利润而非真理。"
+    },
+    "summary": "批营养师短视与期刊逐利",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175614_9783_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "营养师",
+      "工业食品",
+      "进化生理",
+      "柳叶刀",
+      "学术期刊",
+      "理念讨论"
+    ],
+    "tp": [
+      "其他/综合"
+    ]
+  },
+  {
+    "id": "A2379",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "肥胖",
+      "脂肪肝",
+      "脑雾",
+      "皮下脂肪堆积"
+    ],
+    "supplement": [],
+    "diet": "学校全碳水、北方天天拉面导致发胖；后来一个星期一点油不碰",
+    "outcome": {
+      "status": "改善",
+      "description": "回忆上学时学校全碳水、一日三餐往死撑胖了近20斤；后在北方天天吃拉面胖很多，查出脂肪肝、脑雾、皮下脂肪暴涨，当时一周一点油不碰就好了。"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175615_9784_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "肥胖",
+      "脂肪肝",
+      "脑雾",
+      "碳水",
+      "拉面",
+      "皮下脂肪"
+    ],
+    "tp": [
+      "解毒肝肾与排毒",
+      "能量线粒体与代谢",
+      "神经睡眠与脑雾"
+    ],
+    "summary": "全碳水拉面致胖脂肪肝脑雾，无油一周好"
+  },
+  {
+    "id": "A2380",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "医生",
+      "营养学",
+      "垃圾食品",
+      "医院营养科",
+      "主流观点"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "群友QQ群里学医的朋友自己饮食作息很差、常吃垃圾食品甜品却不调整；反驳时对方反问“你学医吗”，群友以“医院为何还设营养科”反问使其语塞，感慨医生多忽略营养学、给病人食谱只是主流表面内容。"
+    },
+    "summary": "医生常忽略营养学，食谱多是表面内容",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175615_9785_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "医生",
+      "营养学",
+      "垃圾食品",
+      "营养科",
+      "理念讨论"
+    ],
+    "tp": [
+      "其他/综合"
+    ]
+  },
+  {
+    "id": "A2381",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "睡眠质量差",
+      "睡不饱"
+    ],
+    "supplement": [
+      "柠檬酸钙"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "反馈晚上加了1克柠檬酸钙后睡得不错，第二天醒来有睡饱的感觉，说明睡眠质量提高，尤其第一晚吃后第二天感受很明显。"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175616_9786_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "睡眠",
+      "睡眠质量",
+      "柠檬酸钙",
+      "钙",
+      "1克"
+    ],
+    "tp": [
+      "神经睡眠与脑雾"
+    ],
+    "summary": "晚加1克柠檬酸钙睡眠质量明显提高"
+  },
+  {
+    "id": "A2382",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "纯肉饮食",
+      "喝冰",
+      "怕热",
+      "盖凉被",
+      "体质"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "发现纯肉后特别爱喝冰的、一杯冰下去超级爽，三月份就开始盖凉被、开春盖夏被；调侃小孩喜欢凉的、只有老年人说喝温水，婆婆见不得喝冷水和冰饮，感慨身体健康容易热。"
+    },
+    "summary": "纯肉后爱喝冰怕热，盖凉被夏被",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175626_9787_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175627_9788_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "纯肉饮食",
+      "喝冰",
+      "怕热",
+      "盖凉被",
+      "经验分享"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "能量线粒体与代谢"
+    ]
+  },
+  {
+    "id": "A2383",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "酥油",
+      "黄油",
+      "基础粉",
+      "包埋",
+      "饮食争论"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "把黄油酥油加入基础粉包埋做成膏状、冷藏后只能用勺子挖，分给同事尝两口半就完成当日任务，发现酥油加多了会凝固；图末另附“各派饮食争论、用60分钟讲清共识与争论”的视频文案。"
+    },
+    "summary": "酥油黄油包埋基础粉做成膏状",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175628_9789_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175629_9790_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "酥油",
+      "黄油",
+      "基础粉",
+      "包埋",
+      "饮食争论",
+      "经验分享"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "其他/综合"
+    ]
+  },
+  {
+    "id": "A2384",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "精力体力下降",
+      "免疫力下降",
+      "性功能减退"
+    ],
+    "supplement": [],
+    "diet": "生酮饮食、健身力量训练",
+    "outcome": {
+      "status": "明显改善",
+      "description": "感慨父辈爷辈45岁前精力体力十足，自己这辈35岁免疫力明显下降；31岁起力不从心、性生活无质量，健身力量训练后好转，35岁又滑坡，但生酮几个月后感觉回到了20岁。"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175630_9791_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "精力体力",
+      "免疫力",
+      "生酮",
+      "力量训练",
+      "性功能",
+      "抗衰"
+    ],
+    "tp": [
+      "能量线粒体与代谢",
+      "内分泌与激素调控"
+    ],
+    "summary": "生酮几个月精力恢复像回到20岁"
+  },
+  {
+    "id": "A2385",
+    "type": "discussion",
+    "user": "黄玊宁",
+    "topic": [
+      "化肥",
+      "低硒土壤",
+      "农作物营养衰减",
+      "糖摄入",
+      "研讨会"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "分享全球化肥市场与中国低硒土壤分布内容；黄老师提到研讨会数据：近100年来农作物营养成分整体衰减近一半，现在普遍糖摄入量又太大。"
+    },
+    "summary": "近百年农作物营养衰减近一半糖太多",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175649_9792_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "化肥",
+      "低硒土壤",
+      "农作物营养",
+      "营养衰减",
+      "糖摄入",
+      "黄玊宁"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "其他/综合"
+    ]
+  },
+  {
+    "id": "A2386",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "肥肉",
+      "甘油三酯",
+      "胆固醇",
+      "饮食结构",
+      "医生建议"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "群友实践证明瞎吃肥肉甘油三酯并不高（0.63），油汤肥肉敞开吃；取报告时医生叮嘱饮食要清淡、总胆固醇偏高，群友心里不以为然。"
+    },
+    "summary": "敞开吃肥肉甘油三酯0.63并不高",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175650_9793_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "肥肉",
+      "甘油三酯",
+      "胆固醇",
+      "低密度",
+      "心血管",
+      "经验分享"
+    ],
+    "tp": [
+      "血管血液与微循环",
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2387",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "关节痛",
+      "关节胀痛"
+    ],
+    "supplement": [
+      "基础营养素",
+      "维生素C"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "周末在家练壶铃太多致左关节疼胀，私教课后仍痛；因健身前后不能吃基础营养素和VC，隔4小时才吃（基础营养素约4包、VC 10克），晚上奇迹般全好；次日重复撸铁无事，对比以前跑马膝盖酸胀、下楼梯痛至少3天，惊叹恢复速度。"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175707_9794_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175708_9795_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "关节痛",
+      "壶铃",
+      "基础营养素",
+      "维生素C",
+      "恢复速度",
+      "运动损伤"
+    ],
+    "tp": [
+      "运动五官与结缔组织",
+      "氧化还原与抗氧化防御"
+    ],
+    "summary": "壶铃关节痛隔4小时吃营养素VC当晚全好"
+  },
+  {
+    "id": "A2388",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "荨麻疹",
+      "皮肤瘙痒"
+    ],
+    "supplement": [
+      "四件套"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "吃四件套4天后荨麻疹明显好转：此前每天早晚身上痒、一抠就起疹子，4天里都没有复发。"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175708_9796_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "荨麻疹",
+      "皮肤瘙痒",
+      "四件套",
+      "过敏",
+      "4天好转"
+    ],
+    "tp": [
+      "免疫自免与过敏"
+    ],
+    "summary": "四件套4天荨麻疹明显好转不复发"
+  },
+  {
+    "id": "A2389",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "纯肉饮食",
+      "一日一餐",
+      "高脂肪",
+      "牛肉",
+      "沙丁鱼",
+      "电解质水",
+      "淡盐水",
+      "盐"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "群友自述纯肉饮食3年、不吃任何补剂、一日一餐高脂肪纯肉，每天约250克牛肉、一罐沙丁鱼、两个鸡蛋、黄油奶酪，并喝电解质水、早上喝淡盐水，准备试着加盐；随后展示每天重复吃的食物照片。"
+    },
+    "summary": "纯肉3年不吃补剂一日一餐高脂肪",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175727_9797_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175728_9798_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "纯肉饮食",
+      "一日一餐",
+      "高脂肪",
+      "牛肉",
+      "沙丁鱼",
+      "电解质水",
+      "淡盐水",
+      "经验分享"
+    ],
+    "tp": [
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2390",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "纯肉饮食",
+      "黄油咖啡",
+      "椰子油",
+      "牛骨汤",
+      "盐",
+      "便秘",
+      "精力",
+      "体检指标",
+      "逆生长"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "群友继续分享：早晨浓咖啡加25克黄油、10克椰子油，晚上喝厚油牛骨汤，咖啡多年上瘾难戒；按建议把盐从六七克加到10克并观察便秘；强调快70岁仍精力充沛，开10小时车、坐飞机二三十小时不倒时差不累，5年没生病、体检指标漂亮（仅LDL偏高、甘油三酯低、高密度高），吃肉长肌肉、爬楼飞快如逆生长。"
+    },
+    "summary": "纯肉多年快70岁精力充沛5年没生病",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175730_9799_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175731_9800_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175732_9801_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175745_9802_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175746_9803_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "纯肉饮食",
+      "黄油咖啡",
+      "椰子油",
+      "牛骨汤",
+      "盐",
+      "便秘",
+      "精力",
+      "体检指标",
+      "逆生长",
+      "经验分享"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "能量线粒体与代谢"
+    ]
+  },
+  {
+    "id": "A2391",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "结缔组织",
+      "牛腩",
+      "牛肉饼",
+      "骨汤",
+      "鸡爪",
+      "牛筋",
+      "纯肉饮食"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "群友介绍专买牛腩绞馅做牛肉饼以保留大量结缔组织，骨汤里加鸡爪、牛筋等结缔组织一起熬，认为结缔组织像“动物纤维”一样重要；并说明自己是68岁女性、纯肉饮食3年。"
+    },
+    "summary": "吃结缔组织牛腩饼骨汤加鸡爪牛筋",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175747_9804_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121175748_9805_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "结缔组织",
+      "牛腩",
+      "牛肉饼",
+      "骨汤",
+      "鸡爪",
+      "牛筋",
+      "纯肉饮食",
+      "经验分享"
+    ],
+    "tp": [
+      "运动五官与结缔组织",
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2392",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "月经失调",
+      "痛经"
+    ],
+    "supplement": [
+      "红光产品",
+      "保健品"
+    ],
+    "diet": "纯肉饮食（10天）",
+    "outcome": {
+      "status": "明显改善",
+      "description": "临近绝经群友用红光并吃10天纯肉加大剂量保健品后，这次月经量很大而且肚子不痛，与以往几十年完全不同，感叹吃对东西和营养补剂太重要；群友称很多群友改变饮食加补剂后变化巨大"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180014_9806_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "月经失调",
+      "痛经",
+      "纯肉饮食",
+      "红光产品",
+      "营养补剂",
+      "女性健康"
+    ],
+    "tp": [
+      "内分泌与激素调控",
+      "饮食结构与膳食模式",
+      "物理干预与能量医学"
+    ],
+    "summary": "纯肉加红光保健品后月经量多不痛"
+  },
+  {
+    "id": "A2393",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "膝盖损伤",
+      "膝盖疼痛"
+    ],
+    "supplement": [],
+    "diet": "喝牛软骨汤三个月",
+    "outcome": {
+      "status": "明显改善",
+      "description": "因跳绳跑步减脂导致膝盖损伤，去年看到博主分享的牛软骨汤后喝了三个月膝盖就好了；最近在跑步机快走25天、每次一小时，现在膝盖一点也不疼"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180015_9807_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "膝盖损伤",
+      "膝盖疼痛",
+      "牛软骨汤",
+      "关节健康"
+    ],
+    "tp": [
+      "运动五官与结缔组织"
+    ],
+    "summary": "牛软骨汤喝三个月膝盖损伤痊愈"
+  },
+  {
+    "id": "A2394",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "生酮",
+      "皮肤",
+      "抗衰老"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "生酮十几年、今年42岁群友分享：去老公同学聚会同学都惊叹其年龄、以为二十几岁；称生酮让皮肤好，是自己坚持的秘密武器，死要漂亮就生酮"
+    },
+    "summary": "生酮十几年42岁显年轻皮肤好",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180015_9808_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "生酮",
+      "皮肤",
+      "抗衰老",
+      "经验分享"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "运动五官与结缔组织"
+    ]
+  },
+  {
+    "id": "A2395",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "临床营养",
+      "医生对比",
+      "淋巴瘤"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "群友晒夏萌医生挂号单挂号费1600元，称黄老师比专业的还专业、在医院一天能赚翻；劝不动患巨大淋巴瘤的亲戚看群案例；另一位跟去听完觉得很多地方远不如黄老师，感慨权威头像让人信服、有名不代表厉害"
+    },
+    "summary": "对比营养科医生称黄老师更专业",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180154_9809_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180155_9810_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "临床营养",
+      "医生对比",
+      "淋巴瘤"
+    ],
+    "tp": [
+      "其他/综合"
+    ]
+  },
+  {
+    "id": "A2396",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "营养处方",
+      "饮食建议",
+      "茶籽油"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "展示夏萌医生营养处方：清理肠道毒素、早睡、液体2000-2500ml、每天500克蔬菜400克水果、215克肉、茶籽油橄榄油、维生素B/C/D、膳食纤维粉、复合消化酶等具体食谱与营养素补充；群友吐槽大量蔬菜水果是糟糕的饮食建议、不如群方案"
+    },
+    "summary": "吐槽医生营养处方大量蔬果不如群方案",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180156_9811_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180157_9812_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180158_9813_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180159_9814_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "营养处方",
+      "饮食建议",
+      "茶籽油",
+      "蔬菜水果"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "其他/综合"
+    ]
+  },
+  {
+    "id": "A2397",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "基础全营养素",
+      "补剂"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "群友感慨大家可能没意识到基础全营养素的含金量，知道群主配的营养素后就再也看不上其他产品、差距太大；黄老师调侃有我的东西还去买别的"
+    },
+    "summary": "感慨基础全营养素含金量高",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180212_9815_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "基础全营养素",
+      "补剂"
+    ],
+    "tp": [
+      "其他/综合"
+    ]
+  },
+  {
+    "id": "A2398",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "乙肝小三阳"
+    ],
+    "supplement": [
+      "正分子营养"
+    ],
+    "diet": "纯肉饮食（10个月）",
+    "outcome": {
+      "status": "明显改善",
+      "description": "纯肉10个月加正分子营养后，几十年的乙肝小三阳都好了、病毒复制已测不出、出现肝脏钙化灶；提醒需要查乙肝两对半确认抗体和抗原情况"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180213_9816_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "乙肝小三阳",
+      "纯肉饮食",
+      "正分子营养",
+      "肝胆"
+    ],
+    "tp": [
+      "解毒肝肾与排毒"
+    ],
+    "summary": "纯肉10个月加营养乙肝小三阳好转"
+  },
+  {
+    "id": "A2399",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "便秘",
+      "肠漏",
+      "食物不耐受"
+    ],
+    "supplement": [],
+    "diet": "生酮、纯肉饮食",
+    "outcome": {
+      "status": "明显改善",
+      "description": "多位群友反馈吃蔬菜加碳水就便秘、生酮纯肉拯救了便秘；有人认识到是食物不耐受导致肠漏引起便秘，现在每天两次通顺的一批；提到黄老师建议孩子便秘先从盐和脂肪入手"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180213_9817_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "便秘",
+      "肠漏",
+      "食物不耐受",
+      "生酮",
+      "纯肉饮食"
+    ],
+    "tp": [
+      "屏障消化与肠道",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "生酮纯肉拯救便秘每天两次通顺"
+  },
+  {
+    "id": "A2400",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "生酮",
+      "资本",
+      "商业利益"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "分享AI分析：如果人人都这样吃，食品工业农业制药业医疗系统化妆品健身减肥产业都会失去巨额利润，所谓简单对商业帝国是断人财路，生酮不可能成为主流不是科学不支持而是资本不允许；群友称一针见血、生酮注定小众"
+    },
+    "summary": "资本不允许生酮成为主流",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180235_9818_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "生酮",
+      "资本",
+      "商业利益"
+    ],
+    "tp": [
+      "其他/综合"
+    ]
+  },
+  {
+    "id": "A2401",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "生酮",
+      "皮肤",
+      "胶原蛋白肽",
+      "医美"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "群友热议生酮皮肤真的好：以前贵妇霜没什么用、皮肤从里到外透亮是医美做不出来、舍不得断酮；分析断糖断精制碳水加消除慢性炎症加补足脂溶性营养加稳定激素加修复肠道多重叠加让皮肤干净透亮；交流吃胶原蛋白肽每天十几克皱纹变淡，强调补剂要吃干净否则脸色暗沉"
+    },
+    "summary": "生酮皮肤透亮胜医美，胶原蛋白肽淡皱纹",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180236_9819_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180237_9820_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180247_9821_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180248_9822_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "生酮",
+      "皮肤",
+      "胶原蛋白肽",
+      "医美",
+      "经验分享"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "运动五官与结缔组织"
+    ]
+  },
+  {
+    "id": "A2402",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "低精力"
+    ],
+    "supplement": [
+      "基础全营养素",
+      "复合活性维生素B"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "自认有MTHFR和MTRR基因突变、长期低精力群友，前段时间吃基础全营养素略有改善，这几天加上复合活性维生素B后终于感到精力饱满；多人同感B族主管能量代谢提升精力、尤其眼睛有神，黄老师称该复合活性B族成分强大效果明显"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180248_9823_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180249_9824_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "低精力",
+      "MTHFR",
+      "复合活性维生素B",
+      "基础全营养素",
+      "能量代谢"
+    ],
+    "tp": [
+      "能量线粒体与代谢"
+    ],
+    "summary": "加复合活性B族后低精力终于饱满"
+  },
+  {
+    "id": "A2403",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "牙龈出血",
+      "牙龈酸痛"
+    ],
+    "supplement": [
+      "维C泡腾粉"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "群友反馈补维C确实有效果：之前早晨左上牙龈经常出血、有时候还酸疼，加了维C泡腾粉后不出血了、基本不疼了；黄老师确认是维C泡腾粉含钾镁主要是好喝，群友称太好喝中午和下午各喝一袋还想喝、问一天能否喝三袋"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180250_9825_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180308_9826_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180309_9827_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "牙龈出血",
+      "牙龈酸痛",
+      "维C泡腾粉",
+      "维生素C"
+    ],
+    "tp": [
+      "免疫自免与过敏",
+      "运动五官与结缔组织"
+    ],
+    "summary": "维C泡腾粉后牙龈不出血不疼"
+  },
+  {
+    "id": "A2404",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "酮疹",
+      "疲劳"
+    ],
+    "supplement": [
+      "电解质"
+    ],
+    "diet": "生酮过渡到一天一顿纯肉（一次三斤）",
+    "outcome": {
+      "status": "明显改善",
+      "description": "从生酮过渡到一天一顿纯肉一次三斤，体重稳定体脂更低、训练恢复快、空腹练前只喝点电解质就能爆发力量、力量基本恢复到碳水健身状态；前三个月特别虚每天约1800卡，近两月脂肪蛋白吃多肌肉量起来，卧推130降到115公斤、腿力渐恢复，体重比碳水时期低30斤、保持肌肉减脂；起疹子最疯狂时期依旧健身，酮疹与草酸倾泻一起强烈，归因以前吃五年炸鸡植物油盖饭甜饮致草酸和PUFA沉积"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180310_9828_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180311_9829_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180311_9830_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180325_9831_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "生酮",
+      "纯肉饮食",
+      "健身",
+      "酮疹",
+      "电解质",
+      "草酸"
+    ],
+    "tp": [
+      "能量线粒体与代谢",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "生酮纯肉健身力量恢复体脂更低减30斤"
+  },
+  {
+    "id": "A2405",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "肥胖"
+    ],
+    "supplement": [
+      "五重镁"
+    ],
+    "diet": "生酮饮食",
+    "outcome": {
+      "status": "明显改善",
+      "description": "从被全办公室觉得疯了到凭一己之力带动整个校区老师生酮：一周全员共瘦30多斤，一位160斤老师10天瘦11斤比打替西还快，自己两个月从138到120斤、因吃得多而稳定；皮肤变得白嫩细腻美回十八岁，一开始吃五重镁都睡不着现在9点45必倒"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180326_9832_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180326_9833_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "生酮",
+      "减肥",
+      "肥胖",
+      "五重镁",
+      "皮肤"
+    ],
+    "tp": [
+      "能量线粒体与代谢",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "带动校区老师生酮一周共瘦30多斤"
+  },
+  {
+    "id": "A2406",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "荨麻疹",
+      "鼻炎",
+      "咽炎"
+    ],
+    "supplement": [],
+    "diet": "生酮饮食、戒面食麸质",
+    "outcome": {
+      "status": "明显改善",
+      "description": "北方群友讨论戒面食难、属糖瘾和麸质上瘾、关键看健康动机是否够强；多人反馈以前容易起荨麻疹一抓一片红、生酮以后就没了，鼻炎咽喉炎很久没发；有人自己改饮食全家受益、给女儿送牛肉串早上啃牛棒骨让老师惊呆，4岁孩子看着瘦却能打翻6岁姐姐"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180328_9835_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180345_9836_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180346_9837_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "荨麻疹",
+      "鼻炎",
+      "咽炎",
+      "生酮",
+      "戒麸质",
+      "面食"
+    ],
+    "tp": [
+      "免疫自免与过敏",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "生酮后荨麻疹没了鼻炎咽炎没发"
+  },
+  {
+    "id": "A2407",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "多囊卵巢综合征",
+      "痛经",
+      "月经量少"
+    ],
+    "supplement": [],
+    "diet": "生酮饮食",
+    "outcome": {
+      "status": "明显改善",
+      "description": "生酮不会让月经变差：小姐妹多囊生酮2个月就好了，自己以前月经量很少现在发山洪，之前的痛经也好了、完全没感觉"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180347_9838_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "多囊卵巢综合征",
+      "痛经",
+      "月经量少",
+      "生酮",
+      "女性健康"
+    ],
+    "tp": [
+      "内分泌与激素调控",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "生酮2个月多囊好痛经消失月经量多"
+  },
+  {
+    "id": "A2408",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "腿软"
+    ],
+    "supplement": [
+      "盐",
+      "电解质"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "今天感觉腿软，在电解质水里加了盐、回家称了10克盐的量后立马好了，果然是盐没够；于是猛灌盐水、准备晚上回家试试10克究竟多少"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180347_9839_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "腿软",
+      "盐",
+      "电解质"
+    ],
+    "tp": [
+      "屏障消化与肠道",
+      "运动五官与结缔组织"
+    ],
+    "summary": "腿软加盐后立马好果然盐没够"
+  },
+  {
+    "id": "A2409",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "便秘",
+      "感冒"
+    ],
+    "supplement": [
+      "维生素C"
+    ],
+    "diet": "忌麸质、不吃小麦制品",
+    "outcome": {
+      "status": "明显改善",
+      "description": "儿子便秘已用黄老师方法调好，家人却看不到效果仍diss补剂还偷偷给吃小麦制品；孩子自己知道不吃麸质、说黄王宁是偶像，妈妈在车里放黄老师视频给孩子看、孩子体会到听话就能拉出来；两次感冒靠给孩子吃VC粉治好，家人质疑怕伤肝肾，感慨家庭饮食观念不一致难沟通"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180348_9840_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180359_9841_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180400_9842_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "便秘",
+      "感冒",
+      "儿童健康",
+      "维生素C",
+      "忌麸质"
+    ],
+    "tp": [
+      "屏障消化与肠道",
+      "免疫自免与过敏"
+    ],
+    "summary": "孩子便秘调好感冒靠VC粉视黄老师为偶像"
+  },
+  {
+    "id": "A2410",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "便秘"
+    ],
+    "supplement": [
+      "盐"
+    ],
+    "diet": "吃够动物脂肪、少吃高纤维植物（黄老师建议）",
+    "outcome": {
+      "status": "明显改善",
+      "description": "每日食盐从7克加到9克后第二天排便就改善、轻松很多，感谢专业指导，黄老师称效果太好；黄老师给出解决便秘11条方法：多吃盐每天10-15克、吃够动物脂肪、吃够VC接近肠道耐受量、少吃高纤维植物、多活动、补碘、适度喝水、吃B族和四件套、补三丁酸甘油酯、降低皮质醇、做提肛训练"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180401_9843_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "便秘",
+      "盐",
+      "排便",
+      "四件套",
+      "三丁酸甘油酯",
+      "维生素C"
+    ],
+    "tp": [
+      "屏障消化与肠道",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "每日盐7克加到9克后排便改善轻松"
+  },
+  {
+    "id": "A2411",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "胰岛素抵抗",
+      "多囊卵巢综合征",
+      "月经失调"
+    ],
+    "supplement": [
+      "基础全营养素",
+      "维C泡腾粉",
+      "胶原蛋白肽",
+      "三丁酸甘油酯",
+      "钠钾镁盐"
+    ],
+    "diet": "生酮低碳、断食，动物脂肪要吃够别低碳又低脂",
+    "outcome": {
+      "status": "明显改善",
+      "description": "25岁女性咨询胰岛素抵抗、PCOS、月经失调，医生让吃达英35从30多吃到绝经，她没吃选择生酮就好了；群友建议低碳生酮执行下来改善很快、提醒查性六项激素并警惕激素致癌和血栓风险；另一群友胰岛素抵抗靠断食低碳改善很多、体重下降但睡眠早醒，补钠钾镁盐后睡眠精力解决；强调饮食最重要补剂锦上添花、动物脂肪要吃够别低碳又低脂"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180401_9844_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180402_9845_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180418_9846_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180419_9847_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180420_9848_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180420_9849_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "胰岛素抵抗",
+      "多囊卵巢综合征",
+      "月经失调",
+      "生酮",
+      "断食",
+      "钠钾镁盐",
+      "早醒"
+    ],
+    "tp": [
+      "内分泌与激素调控",
+      "能量线粒体与代谢"
+    ],
+    "summary": "胰岛素抵抗PCOS生酮改善拒激素药"
+  },
+  {
+    "id": "A2412",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "胶原蛋白肽",
+      "细纹",
+      "美容"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "解答眼周细纹是否该打胶原蛋白：认为口服胶原蛋白肽远优于打针，打针是暴利、功效一般还遭罪（黄金微针、光子、水光），口服见效温和扎实、由内而外全面调理；群友庆幸差点被忽悠，决定自己吃、顺其自然老化。"
+    },
+    "summary": "口服胶原蛋白肽优于打针美容",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180421_9850_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180439_9851_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "胶原蛋白肽",
+      "细纹",
+      "美容",
+      "皮肤"
+    ],
+    "tp": [
+      "运动五官与结缔组织"
+    ]
+  },
+  {
+    "id": "A2413",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "虫咬",
+      "炎症"
+    ],
+    "supplement": [
+      "维生素C"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "老公被小蜱虫咬后红肿，马上涂维生素C粉立马退肿，感叹VC真是万能。"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180440_9852_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "虫咬",
+      "炎症",
+      "维生素C",
+      "外用"
+    ],
+    "tp": [
+      "免疫自免与过敏",
+      "氧化还原与抗氧化防御"
+    ],
+    "summary": "涂维生素C粉退虫咬红肿"
+  },
+  {
+    "id": "A2414",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "内脏脂肪"
+    ],
+    "supplement": [],
+    "diet": "纯肉饮食",
+    "outcome": {
+      "status": "明显改善",
+      "description": "纯肉饮食血糖稳、食欲稳不馋、内脏脂肪全消失、身体轻盈，称传统饮食想减内脏脂肪超级难；反思以前每天一小时撸铁、爬楼200层，运动后猛吃包子面条，那时没有碳水即糖的概念，现在不做有氧、控制饮食内脏脂肪反而没了。"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180441_9853_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180441_9854_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "内脏脂肪",
+      "纯肉饮食",
+      "生酮",
+      "血糖"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "能量线粒体与代谢"
+    ],
+    "summary": "纯肉饮食内脏脂肪全消失"
+  },
+  {
+    "id": "A2415",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "眼白发黄"
+    ],
+    "supplement": [
+      "活性B族"
+    ],
+    "diet": "纯肉饮食",
+    "outcome": {
+      "status": "明显改善",
+      "description": "50岁群友称吃活性B族才半个月眼睛很润、由内而外润泽，眼白出现本来的颜色（之前很黄），对水汪汪的眼睛有了直观理解；感叹纯肉半年多加补剂让自己重生。"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180442_9855_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "眼白发黄",
+      "活性B族",
+      "纯肉饮食",
+      "眼睛润泽"
+    ],
+    "tp": [
+      "运动五官与结缔组织",
+      "能量线粒体与代谢"
+    ],
+    "summary": "吃活性B族半个月眼睛润泽"
+  },
+  {
+    "id": "A2416",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "肝脏",
+      "饮食营养",
+      "经验分享"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "群友连续吃肝脏7天、一天一斤肝脏打底，状态不错会继续；黄老师称向连续吃一个月每天一斤肝的前辈致敬，并提到牛肝一块钱一斤、打折猪肝三元一斤很便宜。"
+    },
+    "summary": "连续吃肝脏7天状态好",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180452_9856_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "肝脏",
+      "经验分享",
+      "饮食营养"
+    ],
+    "tp": [
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2417",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "湿疹",
+      "牙龈出血"
+    ],
+    "supplement": [
+      "基础营养素",
+      "维C泡腾粉",
+      "盐"
+    ],
+    "diet": "纯肉饮食",
+    "outcome": {
+      "status": "明显改善",
+      "description": "妈妈纯肉一个月皮肤嫩了好多、明显透亮，身上湿疹不痒消失、牙龈出血彻底消失，现在一天两包基础营养素加维C泡腾粉、称重把盐吃够调理胃；本人牙龈敏感、轻吸即大量出血、洗牙只管三个月，纯肉这一个月牙龈完全好转、牙齿随便吸没问题，归因碳水搞的鬼。"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180453_9857_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180454_9858_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180455_9859_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180456_9860_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "湿疹",
+      "牙龈出血",
+      "纯肉饮食",
+      "基础营养素",
+      "维C泡腾粉",
+      "皮肤美容"
+    ],
+    "tp": [
+      "免疫自免与过敏",
+      "运动五官与结缔组织",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "妈妈纯肉一月皮肤透亮湿疹牙龈出血消失"
+  },
+  {
+    "id": "A2418",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "牙龈出血"
+    ],
+    "supplement": [],
+    "diet": "纯肉饮食+营养",
+    "outcome": {
+      "status": "明显改善",
+      "description": "分享困扰多年的牙龈轻吸大量出血、吐出大片血，家人一度以为得了怪病，去年10月去医院查也没查出原因；靠纯肉饮食加营养一个月轻松解决，牙齿随便吸没问题，黄老师感叹这就是饮食加营养的力量。"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180506_9861_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180506_9862_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "牙龈出血",
+      "纯肉饮食",
+      "经验分享"
+    ],
+    "tp": [
+      "运动五官与结缔组织",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "牙龈出血困扰多年纯肉营养一月解决"
+  },
+  {
+    "id": "A2419",
+    "type": "discussion",
+    "user": "黄玊宁",
+    "topic": [
+      "生酮",
+      "辟谣",
+      "理念讨论"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "针对医生称生酮饮食不可取、易出现代谢问题的说法，黄老师指出其只是代表某些主流团体发声、维护传统秩序，并非基于科学事实与实践结果。"
+    },
+    "summary": "黄老师辟谣生酮不可取论",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180507_9863_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "生酮",
+      "辟谣",
+      "理念讨论"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "其他/综合"
+    ]
+  },
+  {
+    "id": "A2420",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "高压氧舱",
+      "微压氧舱",
+      "智商税",
+      "体验分享"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "分享医院高压氧舱体验：加压到两个大气压通过面罩输氧、需持续深呼吸，共110分钟（含加压减压，真正吸氧60分钟），一次94元不进医保、首次需近半年体检（CT和心电图）；认为家庭版微压氧舱是智商税。"
+    },
+    "summary": "医院高压氧舱体验，家庭微压氧舱是智商税",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180508_9864_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180509_9865_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180519_9866_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "高压氧舱",
+      "微压氧舱",
+      "智商税",
+      "体验分享"
+    ],
+    "tp": [
+      "物理干预与能量医学",
+      "其他/综合"
+    ]
+  },
+  {
+    "id": "A2421",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "高原反应",
+      "西藏旅行",
+      "经历分享"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "讲述独自坐火车进藏：高原反应严重、每晚睡不着、白天头痛欲裂眼睛痛，第三晚哭着打电话给老伴，被一句不许回来、要坚持激励，第四天满血复活跑着上布宫，此后多次自驾西藏。"
+    },
+    "summary": "进藏高原反应第四天满血复活",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180520_9867_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "高原反应",
+      "西藏旅行",
+      "经历分享"
+    ],
+    "tp": [
+      "其他/综合"
+    ]
+  },
+  {
+    "id": "A2422",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "指甲软"
+    ],
+    "supplement": [
+      "基础营养素",
+      "维C泡腾粉",
+      "三丁酸甘油酯",
+      "R-硫辛酸钠",
+      "九合一油"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "18岁女儿5月25日起陆续吃基础营养素胶囊、维C泡腾粉（最多半包）、三丁酸甘油酯、R-硫辛酸钠、九合一油，早上剪指甲声音特别大、指甲明显变硬（之前很软）；黄老师称正常，并建议胶原蛋白肽粉可直接倒嘴里喝水咽下。"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180521_9868_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "指甲软",
+      "基础营养素",
+      "维C泡腾粉",
+      "三丁酸甘油酯",
+      "九合一油"
+    ],
+    "tp": [
+      "运动五官与结缔组织"
+    ],
+    "summary": "女儿吃补剂指甲由软变硬"
+  },
+  {
+    "id": "A2423",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "三高",
+      "清淡饮食误区",
+      "血管狭窄",
+      "钙化斑块"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "香港司机40+、身材看着可以，长期清淡低盐低脂、不爱吃肉、甜食不多、遵医嘱，却查出脑血管心血管狭窄、脑血管还有点堵并三高；家里亲人也有钙化斑块、高血压、不吃内脏。群友反思这种想象中的合理饮食误区，劝多吃肉吃鸡蛋、动物油脂别全去掉。"
+    },
+    "summary": "香港司机清淡饮食仍三高血管狭窄",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180521_9869_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180522_9870_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180533_9871_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180533_9872_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "三高",
+      "高血压",
+      "血管狭窄",
+      "钙化斑块",
+      "清淡饮食"
+    ],
+    "tp": [
+      "血管血液与微循环",
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2424",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "戒肉误区",
+      "慢病",
+      "种子油",
+      "理念讨论"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "家里一位自身一堆慢病、胆结石切除胆囊的人，还让长辈戒酒戒肉、一天吃三碗粥，被群友怼回去；指出问题根源是米面、种子油和加工食品，而非肉与内脏，很多人一年吃不了几次肉内脏却怪它们。"
+    },
+    "summary": "戒肉戒酒三碗粥是错误观念",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180534_9873_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "戒肉误区",
+      "慢病",
+      "种子油",
+      "理念讨论",
+      "胆结石"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "其他/综合"
+    ]
+  },
+  {
+    "id": "A2425",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "家人认可",
+      "正分子",
+      "饮食改变",
+      "认知"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "认为认知到位就能克服改变，家里把花生油换成猪油、面条换成粉条、尽量避免小麦制品；弟弟和妈妈逐渐认可正分子，弟弟生病也会吃维生素C，持续给住院爷爷投喂补剂后状态好多了。"
+    },
+    "summary": "家人换猪油认可正分子，爷爷补剂好转",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180535_9874_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180536_9875_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "正分子",
+      "猪油",
+      "维生素C",
+      "理念讨论",
+      "补剂"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "其他/综合"
+    ]
+  },
+  {
+    "id": "A2426",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "皮肤暗沉"
+    ],
+    "supplement": [
+      "基础营养素",
+      "维生素C",
+      "盐"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "喝三天营养素后皮肤肉眼可见变好、Q弹年轻有胶原蛋白感，斑点还在但整体皮肤状态明显好；分享用凉开水（头天烧开放凉）冲一包维C、一包基础营养素、加两三克盐摇匀成金黄色液体，用玻璃杯别用不锈钢（酸性），并打算给女朋友买胶囊版。"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180546_9876_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180547_9877_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180548_9878_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "皮肤暗沉",
+      "皮肤美容",
+      "基础营养素",
+      "维生素C",
+      "盐"
+    ],
+    "tp": [
+      "运动五官与结缔组织",
+      "氧化还原与抗氧化防御"
+    ],
+    "summary": "喝三天基础粉加维C盐皮肤Q弹年轻"
+  },
+  {
+    "id": "A2427",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "流感"
+    ],
+    "supplement": [],
+    "diet": "纯肉饮食",
+    "outcome": {
+      "status": "经验分享",
+      "description": "公司这次流感全员沦陷，唯独群友靠纯肉加补剂坚挺无恙。"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180548_9879_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "流感",
+      "纯肉饮食",
+      "补剂",
+      "免疫"
+    ],
+    "tp": [
+      "免疫自免与过敏",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "公司流感全员沦陷，纯肉加补剂坚挺无恙"
+  },
+  {
+    "id": "A2428",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "生酮",
+      "肌肉恢复",
+      "化疗",
+      "补剂"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "解答生酮后运动肌肉酸恢复变慢：一般是电解质和各种营养元素不够，蛋白质脂肪和盐要吃够、别大量吃植物；称正分子营养比碳水糖种子油甚至一点药安全得多，鼓励克服认知害怕补剂；群友分享化疗期间吃维生素C、D、A、K和镁、后来加基础营养素，母亲一日三餐小米粥加牛肉。"
+    },
+    "summary": "生酮恢复慢需蛋白脂肪盐，化疗补剂经验",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180549_9880_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180559_9881_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "生酮",
+      "肌肉恢复",
+      "电解质",
+      "化疗",
+      "维生素C",
+      "基础营养素"
+    ],
+    "tp": [
+      "能量线粒体与代谢",
+      "其他/综合"
+    ]
+  },
+  {
+    "id": "A2429",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "高血压"
+    ],
+    "supplement": [
+      "盐"
+    ],
+    "diet": "纯肉饮食",
+    "outcome": {
+      "status": "明显改善",
+      "description": "咨询纯肉饮食是否会升高血压，回复称不会、盐吃不够反而血压低；举例母亲纯肉前血压140-150，纯肉一个月降到120-130、每天测量，此前按传统饮食控制一年也没效果。"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180600_9882_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "高血压",
+      "纯肉饮食",
+      "盐"
+    ],
+    "tp": [
+      "血管血液与微循环",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "母亲纯肉一月血压降到120-130"
+  },
+  {
+    "id": "A2430",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "纯肉饮食",
+      "生酮",
+      "脑力",
+      "辟谣"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "群友称一直纯肉饮食，一个月背完半本新概念英语书、脑力很正常，认为不吃碳水才是真正滋养大脑，驳斥生酮影响大脑的谣言。"
+    },
+    "summary": "纯肉一月背半本新概念，生酮不伤脑",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180601_9883_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "纯肉饮食",
+      "生酮",
+      "脑力",
+      "辟谣"
+    ],
+    "tp": [
+      "神经睡眠与脑雾",
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2431",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "消费观",
+      "草饲牛羊",
+      "低欲望",
+      "理念讨论"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "买了补剂后消费观改变，看啥都贵、只拿草饲牛羊比价；以前花大价钱买毒药，现在花小钱买身体真正需要的营养，获得低欲望幸福感。"
+    },
+    "summary": "买补剂后消费观变，低欲望幸福感",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180602_9884_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "消费观",
+      "草饲牛羊",
+      "低欲望",
+      "理念讨论"
+    ],
+    "tp": [
+      "其他/综合"
+    ]
+  },
+  {
+    "id": "A2432",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "睡眠"
+    ],
+    "supplement": [],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "第一次体验高压氧舱后晚上10点即犯困，坚持到11点睡，一觉睡到早上8点半（平时6点半就醒），睡眠效果极佳，引来群友打卡体验兴趣"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180603_9885_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "高压氧",
+      "睡眠",
+      "经验分享"
+    ],
+    "tp": [
+      "物理干预与能量医学",
+      "神经睡眠与脑雾"
+    ],
+    "summary": "高压氧舱体验后睡眠极佳"
+  },
+  {
+    "id": "A2433",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "纯肉饮食",
+      "碳水",
+      "地域饮食",
+      "生酮"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "由幼儿园伙委会奶奶'只吃牛肉喝牛奶不吃菜身体一样棒'引出内蒙纯肉饮食习惯（回内蒙健康、回天津就生病），闲聊天津、山西等碳水天堂，称山西人午睡是'全员晕碳'"
+    },
+    "summary": "碳水天堂闲聊：内蒙纯肉健康，天津山西晕碳",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180613_9886_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180613_9887_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180614_9888_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "纯肉饮食",
+      "碳水",
+      "生酮",
+      "地域饮食"
+    ],
+    "tp": [
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2434",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "睡眠"
+    ],
+    "supplement": [],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "用红光睡袋后连着3晚睡好（此前从未连续3晚），第三天所有健身项目全破PR，精力体力提升，强调'做了再说、实践是检验真理的唯一标准'"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180615_9889_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180616_9890_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180630_9891_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "红光睡袋",
+      "红光产品",
+      "睡眠",
+      "经验分享"
+    ],
+    "tp": [
+      "物理干预与能量医学",
+      "神经睡眠与脑雾"
+    ],
+    "summary": "红光睡袋连睡3晚好觉，健身全破PR"
+  },
+  {
+    "id": "A2435",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "睡眠"
+    ],
+    "supplement": [
+      "甘氨酸",
+      "甘氨酸镁",
+      "柠檬酸钙"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "睡前吃甘氨酸3克+甘氨酸镁1克+柠檬酸钙1克后晚上睡得挺好，印证黄老师说的要试才知道有没有效果"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180630_9892_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "甘氨酸",
+      "甘氨酸镁",
+      "柠檬酸钙",
+      "睡眠"
+    ],
+    "tp": [
+      "神经睡眠与脑雾"
+    ],
+    "summary": "睡前甘氨酸加镁钙后睡眠挺好"
+  },
+  {
+    "id": "A2436",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "安疗",
+      "纯肉饮食",
+      "蔬菜果汁",
+      "便秘",
+      "皮肤发黄"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "讨论安疗蔬菜果汁致肚子胀、皮肤发黄、荨麻疹、便秘（多年便秘需开塞露），对比纯肉后肤色白嫩、马甲线、一分钟排便；指出安疗初期有效只是减少食物负担模拟断食，后期因营养不足、果糖植物纤维和植物毒素过多而崩溃"
+    },
+    "summary": "批判安疗：初期似断食有效，后期崩溃",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180631_9893_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180642_9894_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180642_9895_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180643_9896_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180644_9897_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "安疗",
+      "纯肉饮食",
+      "便秘",
+      "皮肤发黄",
+      "荨麻疹",
+      "断食"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "屏障消化与肠道"
+    ]
+  },
+  {
+    "id": "A2437",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "打嗝"
+    ],
+    "supplement": [
+      "基础全营养素",
+      "维C泡腾粉",
+      "胶原蛋白肽",
+      "三丁酸甘油酯",
+      "R-硫辛酸"
+    ],
+    "diet": "肉多吃，蔬菜有就稍微吃一点、没有也不纠结，肉吃不下就吃鸡蛋",
+    "outcome": {
+      "status": "明显改善",
+      "description": "吃基础全营养素+维C泡腾粉+胶原蛋白肽+三丁酸甘油酯+硫辛酸等补剂并调整饮食后，多年打嗝（空腹吃饱都打、气往上涌、胸口发酸）改善很多，胃肠道都很舒服"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180708_9898_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180709_9899_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "打嗝",
+      "基础全营养素",
+      "维C泡腾粉",
+      "肠胃",
+      "经验分享"
+    ],
+    "tp": [
+      "屏障消化与肠道"
+    ],
+    "summary": "补剂加肉食后多年打嗝改善很多"
+  },
+  {
+    "id": "A2438",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "皮肤蜡黄",
+      "胸部干瘪下垂",
+      "易吃撑"
+    ],
+    "supplement": [],
+    "diet": "原型食物/纯肉饮食，多吃牛羊和脂肪",
+    "outcome": {
+      "status": "明显改善",
+      "description": "摸索发现原型食物饱腹感强、消化系统响应及时（多一口都吃不下），单独蛋白质配油脂容易吃多难受；吃肉吃脂肪后手由蜡黄变白、体重涨在胸上而腰围变小、胸由干瘪下垂变挺拔、皮肤白有光泽，无任何运动仅散步"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180710_9900_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180711_9901_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180722_9902_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180723_9903_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180724_9904_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180725_9905_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "原型食物",
+      "纯肉饮食",
+      "饱腹感",
+      "皮肤",
+      "体态",
+      "经验分享"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "屏障消化与肠道"
+    ],
+    "summary": "原型食物饱腹感强，吃肉后皮肤变白体态改善"
+  },
+  {
+    "id": "A2439",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "鸡皮肤",
+      "牙突",
+      "牙齿咬合不良"
+    ],
+    "supplement": [],
+    "diet": "生酮/纯肉饮食，多吃猪脑、啃骨头肉",
+    "outcome": {
+      "status": "明显改善",
+      "description": "认为胆固醇不是问题、猪脑可多吃；孩子生酮后身上鸡皮没了、长胖，啃骨头肉后牙齿咬合和牙突改善；并驳斥原始人营养不良论（原始人营养水平更高、平均身高更高）"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180736_9906_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180737_9907_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180737_9908_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "生酮",
+      "胆固醇",
+      "猪脑",
+      "鸡皮肤",
+      "牙突",
+      "儿童健康"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "运动五官与结缔组织"
+    ],
+    "summary": "孩子生酮后鸡皮没了长胖，牙突咬合改善"
+  },
+  {
+    "id": "A2440",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "胃不适",
+      "桥本甲状腺炎",
+      "馋碳水"
+    ],
+    "supplement": [
+      "肠道修补补剂",
+      "辅酶"
+    ],
+    "diet": "严格纯肉饮食",
+    "outcome": {
+      "status": "明显改善",
+      "description": "红光睡袋睡前躺半小时后胃不适明显缓解、睡眠好、出汗多、能喝冰水（以前不敢）；严格纯肉+桥本肠道修补补剂后体质变好、不再馋碳水，误吃碳水身体敏感不适，吃回鸡蛋牛羊肉后又舒服轻盈"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180747_9909_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180748_9910_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180749_9911_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180750_9912_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "红光",
+      "纯肉饮食",
+      "桥本甲状腺炎",
+      "肠道修补",
+      "补剂",
+      "睡眠"
+    ],
+    "tp": [
+      "物理干预与能量医学",
+      "屏障消化与肠道",
+      "内分泌与激素调控"
+    ],
+    "summary": "红光加严格纯肉补剂后体质变、不馋碳水"
+  },
+  {
+    "id": "A2441",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "大便不成形",
+      "腹泻"
+    ],
+    "supplement": [
+      "复合岩藻多糖",
+      "基础全营养素",
+      "维C泡腾粉",
+      "蛋白肽"
+    ],
+    "diet": "生酮饮食八年多，每天油脂100-200克",
+    "outcome": {
+      "status": "明显改善",
+      "description": "吃复合岩藻多糖后解决了生酮八年多的大便不成形、拉肚子问题，不再拉清水，吃50克黄油也没事、食欲变好，称打开新世界；基础营养粉加泡腾粉加蛋白肽易致大便不成形"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180814_9913_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180815_9914_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180816_9915_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "复合岩藻多糖",
+      "大便不成形",
+      "腹泻",
+      "生酮",
+      "肠胃"
+    ],
+    "tp": [
+      "屏障消化与肠道",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "复合岩藻多糖解决生酮八年大便不成形拉清水"
+  },
+  {
+    "id": "A2442",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "胰岛素",
+      "二型糖尿病",
+      "发胖",
+      "血糖",
+      "碳水",
+      "基础代谢"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "分享视频知识：二型糖尿病加大胰岛素剂量后即使热量没超也肉眼可见发胖，因胰岛素水平高会让身体进入存能模式、降低基础代谢；并反思自己碳水占比至少70%的饮食结构问题"
+    },
+    "summary": "胰岛素高让身体存能发胖，反思碳水占比过高",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180817_9916_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180818_9917_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "胰岛素",
+      "二型糖尿病",
+      "发胖",
+      "碳水",
+      "血糖",
+      "知识分享"
+    ],
+    "tp": [
+      "能量线粒体与代谢",
+      "内分泌与激素调控"
+    ]
+  },
+  {
+    "id": "A2443",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "排便"
+    ],
+    "supplement": [],
+    "diet": "纯肉饮食",
+    "outcome": {
+      "status": "明显改善",
+      "description": "纯肉一个月平安过渡，大便通畅呈黄金大便，没有掉头发、睡眠不好等过渡反应，正在享受纯肉过程"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180847_9918_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "纯肉饮食",
+      "黄金大便",
+      "经验分享"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "屏障消化与肠道"
+    ],
+    "summary": "纯肉一个月平安过渡，大便通畅无不适"
+  },
+  {
+    "id": "A2444",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "心率快"
+    ],
+    "supplement": [
+      "盐"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "3月至5月几乎不吃盐导致心率变快升高（之前不高），把盐加到每天10克后精神好很多、也不虚了"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180848_9919_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "盐",
+      "心率快",
+      "电解质"
+    ],
+    "tp": [
+      "血管血液与微循环",
+      "屏障消化与肠道"
+    ],
+    "summary": "不吃盐心率升高，每天补盐10克后精神好"
+  },
+  {
+    "id": "A2445",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "疲劳"
+    ],
+    "supplement": [],
+    "diet": "吃肉（之前为健康尽量少吃肉）",
+    "outcome": {
+      "status": "明显改善",
+      "description": "原以为汗毛孔坏掉，其实是饮食问题；吃肉后精力好很多、不容易疲劳，反思之前为健康尽量少吃肉是搞错了"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180849_9920_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "吃肉",
+      "精力",
+      "疲劳",
+      "经验分享"
+    ],
+    "tp": [
+      "能量线粒体与代谢",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "吃肉后精力好不易疲劳，少吃肉是搞错了"
+  },
+  {
+    "id": "A2446",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "发烧"
+    ],
+    "supplement": [
+      "基础全营养素",
+      "维生素C",
+      "维生素B",
+      "维生素E",
+      "维生素A"
+    ],
+    "diet": "纯肉饮食",
+    "outcome": {
+      "status": "明显改善",
+      "description": "老大突然发烧后给基础全营养素加维C、维B、维E、维A，不到30分钟就自己出汗退烧且精神特别好，恢复比以往用补剂快很多"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180849_9921_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180850_9922_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "发烧",
+      "儿童健康",
+      "基础全营养素",
+      "维生素C",
+      "退烧"
+    ],
+    "tp": [
+      "免疫自免与过敏"
+    ],
+    "summary": "孩子发烧吃补剂不到30分钟退烧精神好"
+  },
+  {
+    "id": "A2447",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "皮肤暗黄",
+      "脾胃不好",
+      "消瘦"
+    ],
+    "supplement": [],
+    "diet": "吃肉吃脂肪，多吃牛羊",
+    "outcome": {
+      "status": "明显改善",
+      "description": "过去又黑又黄、脾胃不好又瘦，吃肉吃脂肪（牛羊吃很多）加补剂后皮肤变白里透红、透亮，称白里透红就是健康，表示感恩继续吃肉"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180851_9923_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180908_9924_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180909_9925_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180910_9926_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "皮肤暗黄",
+      "皮肤美容",
+      "吃肉",
+      "脾胃",
+      "经验分享"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "运动五官与结缔组织"
+    ],
+    "summary": "吃肉吃脂肪加补剂后皮肤白里透红"
+  },
+  {
+    "id": "A2448",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "肩周炎",
+      "坚果",
+      "巴旦木",
+      "生酮",
+      "炎症"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "吃巴旦木粉代餐窝窝头后40岁出现肩周炎黏连，忍痛撕开才好，复盘发现是坚果引发的炎症，称是生酮路上踩过的最大坑，分享引以为戒"
+    },
+    "summary": "坚果代餐引发肩周炎黏连，引以为戒",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180946_9927_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "肩周炎",
+      "坚果",
+      "巴旦木",
+      "生酮",
+      "炎症",
+      "经验分享"
+    ],
+    "tp": [
+      "运动五官与结缔组织",
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2449",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "手胀"
+    ],
+    "supplement": [
+      "甘氨酸镁",
+      "苏糖酸镁",
+      "钾",
+      "盐"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "单独补甘氨酸镁、苏糖酸镁和钾并把盐吃够后体重从65掉到63（掉4斤），手胀是缺镁钾盐所致，强调电解质一定要补充到位"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121180947_9928_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "甘氨酸镁",
+      "苏糖酸镁",
+      "钾",
+      "盐",
+      "减重",
+      "电解质"
+    ],
+    "tp": [
+      "屏障消化与肠道",
+      "能量线粒体与代谢"
+    ],
+    "summary": "补镁钾盐吃够后体重掉4斤，手胀缓解"
+  },
+  {
+    "id": "A2450",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "自愈",
+      "营养补充",
+      "免疫功能",
+      "药物",
+      "理念"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "讲解生病恢复靠身体自愈和免疫功能，全面足量的营养补充从根本上支持身体修复能力；药物是通过抑制细胞功能让指标好看，但不解决根本问题"
+    },
+    "summary": "生病靠自愈营养支持，药物不治本",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181010_9929_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181011_9930_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "自愈",
+      "营养补充",
+      "免疫",
+      "药物",
+      "理念",
+      "知识分享"
+    ],
+    "tp": [
+      "其他/综合",
+      "免疫自免与过敏"
+    ]
+  },
+  {
+    "id": "A2451",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "睡眠"
+    ],
+    "supplement": [
+      "睡眠胶囊",
+      "柠檬酸钙",
+      "甘氨酸"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "睡前吃睡眠胶囊加柠檬酸钙再加甘氨酸帮助睡眠，感觉效果挺好的"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181031_9931_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "睡眠胶囊",
+      "柠檬酸钙",
+      "甘氨酸",
+      "睡眠"
+    ],
+    "tp": [
+      "神经睡眠与脑雾"
+    ],
+    "summary": "睡前睡眠胶囊加柠檬酸钙甘氨酸助眠效果好"
+  },
+  {
+    "id": "A2452",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "体力不足",
+      "性功能减退"
+    ],
+    "supplement": [
+      "复合氮泵氨基酸"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "咨询复合氮泵氨基酸服用时机，反馈吃两粒效果强、耐受好，打篮球体力好很多、性能力比以前强；黄王宁称正分子营养很安全，建议事前吃10-15克复合氮泵氨基酸（约20粒胶囊）"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181117_9940_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181118_9941_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181119_9942_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "复合氮泵氨基酸",
+      "体力",
+      "运动能力",
+      "经验分享"
+    ],
+    "tp": [
+      "运动五官与结缔组织",
+      "能量线粒体与代谢"
+    ],
+    "summary": "复合氮泵氨基酸提升体力运动能力"
+  },
+  {
+    "id": "A2453",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "性功能减退"
+    ],
+    "supplement": [
+      "EAA",
+      "复合氮泵胶囊"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "视频评论中粉丝称EAA让他找回了男人的自信，之前很绝望、现在天天吃；黄王宁回复称可以试试复合氮泵胶囊更猛"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181119_9943_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "EAA",
+      "必需氨基酸",
+      "复合氮泵胶囊",
+      "男性健康"
+    ],
+    "tp": [
+      "内分泌与激素调控",
+      "能量线粒体与代谢"
+    ],
+    "summary": "EAA让粉丝找回男人自信"
+  },
+  {
+    "id": "A2454",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "脑雾",
+      "记忆力衰退",
+      "注意力衰退",
+      "偏头痛",
+      "痛风",
+      "便秘",
+      "失眠"
+    ],
+    "supplement": [],
+    "diet": "纯肉饮食",
+    "outcome": {
+      "status": "明显改善",
+      "description": "视频评论分享自己曾有脑雾、记忆力衰退、注意力衰退、偏头痛、痛风、便秘、失眠，吃什么药都没用；纯肉饮食后这些全好转，认为根源是植物吃多了，感叹实践出真知、不可盲信权威"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181150_9944_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "纯肉饮食",
+      "脑雾",
+      "偏头痛",
+      "痛风",
+      "便秘",
+      "失眠",
+      "经验分享"
+    ],
+    "tp": [
+      "神经睡眠与脑雾",
+      "屏障消化与肠道",
+      "能量线粒体与代谢"
+    ],
+    "summary": "纯肉饮食治好脑雾偏头痛痛风便秘失眠"
+  },
+  {
+    "id": "A2455",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "皮肤暗沉"
+    ],
+    "supplement": [
+      "胶原蛋白肽"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "聊天记录显示喝胶原蛋白肽才两天就感觉皮肤白了，称比吃那么多维生素美白效果还好"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181150_9945_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "胶原蛋白肽",
+      "皮肤美白",
+      "经验分享"
+    ],
+    "tp": [
+      "运动五官与结缔组织"
+    ],
+    "summary": "喝胶原蛋白肽两天皮肤变白"
+  },
+  {
+    "id": "A2456",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "中耳炎",
+      "耳鸣"
+    ],
+    "supplement": [],
+    "diet": "纯肉饮食",
+    "outcome": {
+      "status": "明显改善",
+      "description": "视频评论称以前有中耳炎和耳鸣的问题，纯肉饮食一年多后不知不觉中耳鸣和中耳炎都好了"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181151_9946_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "中耳炎",
+      "耳鸣",
+      "纯肉饮食",
+      "经验分享"
+    ],
+    "tp": [
+      "运动五官与结缔组织"
+    ],
+    "summary": "纯肉饮食一年多耳鸣中耳炎不知不觉好了"
+  },
+  {
+    "id": "A2457",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "肠胃不适"
+    ],
+    "supplement": [],
+    "diet": "吃带皮、带筋的牛羊肉",
+    "outcome": {
+      "status": "明显改善",
+      "description": "以前买过各式各样益生菌（含需冰箱储存的活体益生菌），吃了作用不好、一停又不好；看了视频后有意识买带皮带筋的牛羊肉吃，这段时间肠胃非常好，不吃益生菌也没问题，感觉认知提升了"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181219_9947_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "肠胃不适",
+      "益生菌",
+      "带皮带筋肉",
+      "经验分享"
+    ],
+    "tp": [
+      "屏障消化与肠道"
+    ],
+    "summary": "改吃带皮带筋肉后肠胃好停掉益生菌"
+  },
+  {
+    "id": "A2458",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "精力不足"
+    ],
+    "supplement": [
+      "盐",
+      "基础营养素",
+      "甜梦静息"
+    ],
+    "diet": "纯肉饮食、经典生酮",
+    "outcome": {
+      "status": "明显改善",
+      "description": "纯肉两个月肌肉更有型、血管更爆，体重不变但肌肉增加很多；纯肉前经典生酮两年经常没力气，加微信后把盐吃够、营养素喝一个多月，现在每天特别有精神、状态特别棒；另给睡眠不好的妈妈买了甜梦静息"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181219_9948_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "精力不足",
+      "肌肉增加",
+      "纯肉饮食",
+      "盐",
+      "基础营养素",
+      "甜梦静息"
+    ],
+    "tp": [
+      "能量线粒体与代谢",
+      "运动五官与结缔组织"
+    ],
+    "summary": "纯肉加盐营养素后肌肉增加精力充沛"
+  },
+  {
+    "id": "A2459",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "感冒",
+      "乏力",
+      "睡眠障碍"
+    ],
+    "supplement": [
+      "盐",
+      "基础营养素"
+    ],
+    "diet": "从素食改为吃肉",
+    "outcome": {
+      "status": "明显改善",
+      "description": "吃素多年以为健康，但体质、体感、精神越来越差，经常感冒、无力、睡眠不好；吃肉加补剂、盐以后这些状况都消失了，称不后悔也不抨击吃素，因为它是提升健康观念、改道来这里的必由之路"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181220_9949_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "吃素",
+      "感冒",
+      "乏力",
+      "睡眠障碍",
+      "盐",
+      "经验分享"
+    ],
+    "tp": [
+      "免疫自免与过敏",
+      "能量线粒体与代谢",
+      "神经睡眠与脑雾"
+    ],
+    "summary": "吃素体差常感冒，改吃肉加盐补剂后消失"
+  },
+  {
+    "id": "A2460",
+    "type": "discussion",
+    "user": "黄玊宁",
+    "topic": [
+      "人类演化",
+      "吃肉",
+      "牙齿",
+      "碳水",
+      "纯肉饮食"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "视频称农业社会后人类才大量吃碳水、贵族仍大量吃肉；针对评论质疑牙齿，黄王宁回应牙齿与人类200万年演化无关（因人类会用武器工具、会合作、用火，无需演化出尖牙利嘴），且人类牙齿根本不是食草动物那种"
+    },
+    "summary": "人类吃肉演化，牙齿质疑与食草无关",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181243_9950_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "人类演化",
+      "吃肉",
+      "牙齿",
+      "碳水",
+      "纯肉饮食"
+    ],
+    "tp": [
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2461",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "霍金",
+      "长寿饮食",
+      "鱼肝油",
+      "维生素",
+      "锌",
+      "无麸质"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "据公开资料，霍金坚持服鱼肝油、维生素并补锌，不吃含麸质食物和植物油，也避免加工食品及乳制品；医学专家指出其存活55年属罕见个案，主要归因于发病年龄极早（21岁）"
+    },
+    "summary": "霍金长寿饮食：鱼肝油维生素补锌无麸质",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181243_9951_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "霍金",
+      "长寿",
+      "鱼肝油",
+      "维生素",
+      "锌",
+      "无麸质",
+      "信息分享"
+    ],
+    "tp": [
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2462",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "食疗",
+      "补充剂",
+      "食物营养",
+      "化肥"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "认为靠卖食谱治病没意义、迷信食疗不可取，不如合理系统使用补充剂；极限换食短期可部分营养治疗但依从性差、不适合长期；举例化肥催大的玉米每100克钙含量下降78%，现代食物营养远不如前"
+    },
+    "summary": "迷信食疗不如系统用补充剂",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181304_9952_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "食疗",
+      "补充剂",
+      "食物营养",
+      "化肥",
+      "理念讨论"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "其他/综合"
+    ]
+  },
+  {
+    "id": "A2463",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "皮肤赘生物"
+    ],
+    "supplement": [
+      "基础营养素"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "6月份发现脖子上长出像皮肤上的一粒粒东西，通过两个月的红光加基础营养素后完全消失，原来摸上去一粒粒现在都没了，坚信跟着老师走、补剂问题问老师"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181331_9953_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "皮肤赘生物",
+      "红光产品",
+      "基础营养素",
+      "经验分享"
+    ],
+    "tp": [
+      "物理干预与能量医学",
+      "运动五官与结缔组织"
+    ],
+    "summary": "红光加基础营养素两个月颈部赘生物消失"
+  },
+  {
+    "id": "A2464",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "饮食结构",
+      "激素平衡",
+      "生酮",
+      "治未病",
+      "自愈力"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "认为朋友营养方式能弥补问题但碳水仍正常吃南瓜红薯等慢碳，饮食结构不改就不能治未病；认可生酮加充足营养能让身体自动平衡激素、靠自愈力给足原料调到最合适状态，认为澳洲老师按年收费调激素没必要；54岁体型变匀称紧实、开始增肌，称状态改善明显"
+    },
+    "summary": "生酮加充足营养身体自平衡激素，无需专门调",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181332_9954_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181341_9955_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181342_9956_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "生酮",
+      "激素平衡",
+      "饮食结构",
+      "自愈力",
+      "EAA",
+      "复合氮泵"
+    ],
+    "tp": [
+      "内分泌与激素调控",
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2465",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "低碳饮食",
+      "三高",
+      "糖尿病",
+      "家人改变",
+      "补剂"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "反思吃得对为何满街胖子三高，家中高碳水低脂饮食导致当医生的爷爷等家人糖尿病；自己践行低碳一个月身体变化明显，反复说教后父母加了蛋白质、降碳水、换脂肪，身体明显改观，但说服家人加补剂仍很困难；老公降碳水后中午不瞌睡、精力好了但仍不承认"
+    },
+    "summary": "低碳一月变化明显，家人改饮食易加补剂难",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181352_9957_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181353_9958_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181353_9959_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181354_9960_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "低碳饮食",
+      "三高",
+      "糖尿病",
+      "家人",
+      "补剂",
+      "理念讨论"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "能量线粒体与代谢"
+    ]
+  },
+  {
+    "id": "A2466",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "感冒"
+    ],
+    "supplement": [
+      "维生素C"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "分享服50g维C后感冒快速好转，以往感冒非常难受、需一个星期才好，这次虽仍有小流涕、流眼泪但精神状态很好、特别精神，对生病不再恐惧；称配合阳了怎么办方案好得更快，现基本痊愈、体感非常好，比吃药更可靠"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181701_9961_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181702_9962_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "感冒",
+      "维生素C",
+      "大剂量维C",
+      "经验分享"
+    ],
+    "tp": [
+      "免疫自免与过敏",
+      "氧化还原与抗氧化防御"
+    ],
+    "summary": "服50g维C加阳了方案感冒快速好转痊愈"
+  },
+  {
+    "id": "A2467",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "肺部恶性肿瘤"
+    ],
+    "supplement": [
+      "维生素C",
+      "维生素矿物质"
+    ],
+    "diet": "长断食",
+    "outcome": {
+      "status": "明显改善",
+      "description": "分享一位酮友肺上有一个鸡蛋大的恶性肿瘤，通过输VC、长断食、补充优质维生素矿物质，三个多月后肿瘤消失"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181703_9963_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "肿瘤",
+      "断食",
+      "维生素C",
+      "维生素矿物质",
+      "经验分享"
+    ],
+    "tp": [
+      "能量线粒体与代谢",
+      "免疫自免与过敏"
+    ],
+    "summary": "酮友肺部恶性肿瘤经断食输VC三月消失"
+  },
+  {
+    "id": "A2468",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "纯肉饮食",
+      "减脂",
+      "力量训练",
+      "不喝酒"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "教练分享纯肉饮食减脂期间力量破纪录（130kg做5个），认为不喝酒确实有帮助，称作为教练能对得起200多的课时心里很舒服"
+    },
+    "summary": "纯肉减脂期间力量破纪录，不喝酒有帮助",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181704_9964_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "纯肉饮食",
+      "减脂",
+      "力量训练",
+      "经验分享"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "运动五官与结缔组织"
+    ]
+  },
+  {
+    "id": "A2469",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "复合氮泵氨基酸",
+      "用量",
+      "安全性"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "群友咨询复合氮泵氨基酸一天喝超过10粒、有时没数多喝是否有问题，称感觉挺有效、好像更硬、量特别多；黄王宁追问怎么个有效法"
+    },
+    "summary": "咨询复合氮泵氨基酸超10粒用量是否安全",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181705_9965_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "复合氮泵氨基酸",
+      "用量",
+      "安全性",
+      "咨询"
+    ],
+    "tp": [
+      "能量线粒体与代谢",
+      "运动五官与结缔组织"
+    ]
+  },
+  {
+    "id": "A2470",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "痔疮"
+    ],
+    "supplement": [
+      "补剂"
+    ],
+    "diet": "生酮饮食",
+    "outcome": {
+      "status": "明显改善",
+      "description": "群友咨询痔疮修复方案，黄老师建议擦屁股用湿巾或用水冲、不要用干燥硬纸，并用红光照局部；多人反馈生酮后炎症少了痔疮不再犯，认识的人生酮后也没再犯，即使非严格生酮（吃肉为主、偶尔吃水果碳水）也有改善，生酮几个月加补剂后几个月未再犯"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181740_9966_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181741_9967_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181742_9968_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181742_9969_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "痔疮",
+      "生酮",
+      "红光产品",
+      "补剂",
+      "经验分享"
+    ],
+    "tp": [
+      "屏障消化与肠道",
+      "物理干预与能量医学"
+    ],
+    "summary": "湿巾红光加生酮后痔疮炎症少不再犯"
+  },
+  {
+    "id": "A2471",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "盐",
+      "基础营养素",
+      "正分子营养",
+      "减少碳水",
+      "全家改善"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "分享全家每天把盐吃到10g、加基础粉、常规饮食也用起来，第二个月整体感觉身体有明显好转；自己基本纯肉、家人减少碳水，整体都在改善，很高兴有黄老师的正分子营养理念"
+    },
+    "summary": "全家吃盐10g加基础粉减少碳水后身体好转",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181758_9970_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "盐",
+      "基础营养素",
+      "正分子营养",
+      "减少碳水",
+      "经验分享"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "屏障消化与肠道"
+    ]
+  },
+  {
+    "id": "A2472",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "纯肉饮食",
+      "生酮",
+      "胃酸不足",
+      "三把火",
+      "营养素"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "分享长期关注博主学习纯肉饮食的认知转变：原以为家里食材已做到极致（山上散养黑猪肉、有机猪油从不买外面食品），对比后发现自身胃酸消化不足、吃肉量太少，决心用「三把火」把营养素调整为少而精"
+    },
+    "summary": "纯肉认知更新：胃酸不足吃肉太少",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181842_9981_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181843_9982_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181844_9983_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "纯肉饮食",
+      "生酮",
+      "胃酸不足",
+      "认知转变"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "屏障消化与肠道"
+    ]
+  },
+  {
+    "id": "A2473",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "食物链",
+      "纯肉饮食",
+      "膳食纤维",
+      "膳食指南"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "转发视频评论，用食物链逻辑说明直接吃动物肉和内脏可高效补充营养，膳食纤维只需少量蔬果用于形成大便；自称多吃蔬果会因纤维太多而吃不下其他，称赞讲得好、别太迷信膳食指南"
+    },
+    "summary": "食物链逻辑吃肉高效补营养别迷信指南",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181931_9984_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "食物链",
+      "纯肉饮食",
+      "膳食纤维"
+    ],
+    "tp": [
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2474",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "胃痛",
+      "腹胀",
+      "性欲减退",
+      "脑雾",
+      "脱发",
+      "皮肤干燥"
+    ],
+    "supplement": [
+      "盐"
+    ],
+    "diet": "生酮饮食",
+    "outcome": {
+      "status": "明显改善",
+      "description": "详述吃盐带来的多种改善：胃痛腹胀消失、性欲恢复、醛固酮和皮质醇下降使腰围从78降到70、血酮从平时0.5升到3-4，脑雾掉发掉皮等问题不再反复，决心把盐焊死在身上"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181942_9985_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181943_9986_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181944_9987_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181945_9988_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121181946_9989_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "盐",
+      "胃痛",
+      "腹胀",
+      "脑雾",
+      "脱发",
+      "性欲减退"
+    ],
+    "tp": [
+      "屏障消化与肠道",
+      "内分泌与激素调控",
+      "神经睡眠与脑雾"
+    ],
+    "summary": "吃盐胃痛脑雾脱发改善腰围78到70"
+  },
+  {
+    "id": "A2475",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "地中海贫血",
+      "胆红素升高",
+      "脾大"
+    ],
+    "supplement": [
+      "补剂"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "有地中海贫血的群友请黄老师看检查单，对比去年：血红蛋白第一次超过100、胆红素下降，肝胆彩超显示脾脏没有去年大了，医生都问是不是干预过，感叹补剂强大且未增加肝肾负担"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182019_9990_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182019_9991_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "地中海贫血",
+      "血红蛋白",
+      "胆红素",
+      "脾脏",
+      "补剂",
+      "功能医学检测"
+    ],
+    "tp": [
+      "血管血液与微循环",
+      "功能医学检测与评估"
+    ],
+    "summary": "地中海贫血补剂血红蛋白首超100胆红素降"
+  },
+  {
+    "id": "A2476",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "吃肉",
+      "身高",
+      "营养",
+      "狩猎权"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "以美国独立战争前夕北方佬比英国大兵人均高约7.5厘米、桑德赫斯特军校吃牛羊肉的14岁学员比伦敦贫民窟吃面包者高约22厘米为例，论证肉食营养对身高体格的影响"
+    },
+    "summary": "吃肉多的人比吃面包的高一大截",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182021_9992_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "吃肉",
+      "身高",
+      "营养"
+    ],
+    "tp": [
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2477",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "他汀",
+      "低密度脂蛋白",
+      "血脂",
+      "药企",
+      "医疗指南"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "吐槽抖音名医一见低密度超标就叫吃他汀，网红吃一个月出现肌肉酸疼仍被要求吃一辈子且不要运动；指出指南背后是药企利益集团对医疗系统的渗透和控制，医生只按流程办事"
+    },
+    "summary": "批判他汀滥用：指南背后是药企利益渗透",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182022_9993_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182022_9994_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "他汀",
+      "低密度脂蛋白",
+      "血脂",
+      "药企"
+    ],
+    "tp": [
+      "血管血液与微循环"
+    ]
+  },
+  {
+    "id": "A2478",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "炎症"
+    ],
+    "supplement": [],
+    "diet": "生酮饮食、纯肉饮食一年半",
+    "outcome": {
+      "status": "改善",
+      "description": "转发黄王宁「作为生酮纯肉饮食人每天吃什么」的视频及评论，网友称自己也生酮饮食一年半，身体没炎症、越来越年轻"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182043_9995_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "生酮",
+      "纯肉饮食",
+      "炎症",
+      "抗衰"
+    ],
+    "tp": [
+      "饮食结构与膳食模式",
+      "免疫自免与过敏"
+    ],
+    "summary": "生酮纯肉一年半，身体没炎症越来越年轻"
+  },
+  {
+    "id": "A2479",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "正分子营养素",
+      "九合一油",
+      "微量元素",
+      "抗衰粉",
+      "大剂量"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "展示与黄王宁的聊天记录：加了九合一油、微量元素、抗衰等大剂量正分子营养素后止疼药消炎药都没吃，牙医称牙齿骨密度太高太硬；黄老师称只要剂量足够，营养素就能达到效果且没有副作用"
+    },
+    "summary": "大剂量营养素不用止痛药骨密度高",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182044_9996_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "九合一油",
+      "微量元素",
+      "抗衰粉",
+      "大剂量"
+    ],
+    "tp": [
+      "氧化还原与抗氧化防御",
+      "能量线粒体与代谢"
+    ]
+  },
+  {
+    "id": "A2480",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "断食",
+      "生酮",
+      "正分子营养素",
+      "短视频"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "谈短视频是垃圾信息、油脂和蛋白质才是优质知识；群友称最初不了解正分子时断食只喝水也没感觉饿或疲惫、了解后才补营养素并慢慢追求极致；黄老师强调生酮不是减肥营销手段，而是让人变健康"
+    },
+    "summary": "断食生酮是让人健康非减肥",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182046_9997_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "断食",
+      "生酮",
+      "正分子营养素",
+      "短视频"
+    ],
+    "tp": [
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2481",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "抗衰粉",
+      "亚精胺",
+      "性欲",
+      "补剂"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "多人反馈昨天晚上吃了抗衰粉后性欲旺盛、晚上被硬醒，猜测是其中的亚精胺作用，调侃要买蜜桃臀应急，并打算把抗衰粉列入日常补剂"
+    },
+    "summary": "多人吃抗衰粉后性欲旺盛，疑亚精胺作用",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182123_9998_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182124_9999_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "抗衰粉",
+      "亚精胺",
+      "性欲"
+    ],
+    "tp": [
+      "内分泌与激素调控"
+    ]
+  },
+  {
+    "id": "A2482",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "肠漏",
+      "腹泻"
+    ],
+    "supplement": [
+      "补剂"
+    ],
+    "diet": "生酮饮食",
+    "outcome": {
+      "status": "改善",
+      "description": "转发黄王宁关于肠漏要修复多久的内容（需半年到一年解决肠漏），网友称自己生酮加吃补剂后，现在喝牛奶不再拉肚子"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182125_10000_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "肠漏",
+      "腹泻",
+      "生酮",
+      "补剂"
+    ],
+    "tp": [
+      "屏障消化与肠道"
+    ],
+    "summary": "生酮加补剂修复肠漏，喝牛奶不再腹泻"
+  },
+  {
+    "id": "A2483",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "消化不良",
+      "胃酸不足",
+      "胃肠道反应"
+    ],
+    "supplement": [
+      "盐"
+    ],
+    "diet": "纯肉饮食一年，蛋白质吃少点，不吃菜不碰碳水，最多吃去皮黄瓜",
+    "outcome": {
+      "status": "明显改善",
+      "description": "群友分享纯肉一年后复查：胃肠道反应完全消失、消化能力和胃酸水平都恢复、每天都有香蕉便，精力体力和胃肠道状态巨大提升；称从去年7月生酮、9月纯肉坚持一年终于拿到结果"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182139_10001_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182140_10002_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182141_10003_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "纯肉饮食",
+      "消化不良",
+      "胃酸",
+      "盐",
+      "香蕉便"
+    ],
+    "tp": [
+      "屏障消化与肠道",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "纯肉一年胃肠反应消失，消化胃酸恢复香蕉便"
+  },
+  {
+    "id": "A2484",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "糖尿病",
+      "代谢损伤",
+      "生活方式",
+      "生活质量"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "看望ICU老人：十几年前确诊糖尿病时曾帮其做治疗规划，后来餐桌上不断出现水果甜点、一次次「就吃一点点没关系」，如今器官储备被耗尽只能靠仪器维持生命；感慨能活着不等于有质量地活着，身体垮掉源于无数侥幸，没人能叫醒不打算醒的人"
+    },
+    "summary": "糖尿病反思：侥幸耗尽器官储备",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182152_10004_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182153_10005_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182153_10006_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "糖尿病",
+      "代谢",
+      "ICU",
+      "生活方式"
+    ],
+    "tp": [
+      "内分泌与激素调控",
+      "其他/综合"
+    ]
+  },
+  {
+    "id": "A2485",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "红光产品",
+      "红光睡袋",
+      "孩子照红光"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "朋友圈评论聊孩子主动要求照红光、照完脸和头再照大人的，暖暖的很喜欢；接着说家里红光每天累死了，下次打算直接买红光睡袋"
+    },
+    "summary": "家用红光每天累死，打算买红光睡袋",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182222_10007_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182223_10008_3.jpg"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "tags": [
+      "红光产品",
+      "红光睡袋"
+    ],
+    "tp": [
+      "物理干预与能量医学"
+    ]
+  },
+  {
+    "id": "A2486",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "痤疮",
+      "皮疹",
+      "麸质过敏"
+    ],
+    "supplement": [],
+    "diet": "不吃碳水、戒面食",
+    "outcome": {
+      "status": "明显改善",
+      "description": "转发麸质相关评论，网友称不吃碳水后最明显的是下巴三天两头长的痘痘再也不长，吃面食满脸通红掉皮起疹子、戒掉面食后再也没有，自认可能也是麸质过敏"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182224_10009_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "痤疮",
+      "麸质过敏",
+      "戒面食",
+      "皮疹"
+    ],
+    "tp": [
+      "免疫自免与过敏",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "戒面食后不再长痘、满脸红疹掉皮消失"
+  },
+  {
+    "id": "A2487",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "糖尿病",
+      "高血压",
+      "尿毒症",
+      "营养不良",
+      "出家人"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "提到「释」字开头的大方丈尿毒症透析、严重贫血、重度营养不良，上海瑞金逼着吃鸡蛋牛奶，才五十多岁却高血压二十多年、2型糖尿病十几年；其徒弟称弟子超一半有糖尿病，泰国出家人统计也差不多一半有糖尿病"
+    },
+    "summary": "出家人近半糖尿病，方丈透析营养不良",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182242_10010_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "糖尿病",
+      "高血压",
+      "尿毒症",
+      "营养不良"
+    ],
+    "tp": [
+      "内分泌与激素调控",
+      "血管血液与微循环"
+    ]
+  },
+  {
+    "id": "A2488",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "性欲减退",
+      "体重下降"
+    ],
+    "supplement": [],
+    "diet": "纯肉饮食第10天（此前长期吃素）",
+    "outcome": {
+      "status": "有所改善",
+      "description": "群友分享吃素那几年体重掉了、女性生理欲望完全没有，改吃纯肉几天后欲望有点恢复，到今天第10天感觉到身体能量在恢复"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182243_10011_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "性欲减退",
+      "纯肉饮食",
+      "吃素",
+      "女性健康"
+    ],
+    "tp": [
+      "内分泌与激素调控",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "吃素性欲消失，改纯肉10天欲望与能量恢复"
+  },
+  {
+    "id": "A2489",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "生酮饮食",
+      "肥肉",
+      "鸡蛋",
+      "盐"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "群友说爸爸特别爱吃肥肉和鸡蛋、自成一派像生酮饮食，七十多岁很瘦但精神很好；建议进一步改进——少吃植物多吃肉、别只吃肥的，并把盐多吃一点"
+    },
+    "summary": "爸爸肥肉鸡蛋自成生酮，七十多岁瘦而精神",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182244_10012_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "生酮",
+      "肥肉",
+      "鸡蛋",
+      "盐",
+      "老年人"
+    ],
+    "tp": [
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2490",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "幽门螺杆菌感染"
+    ],
+    "supplement": [],
+    "diet": "忌口、加大吃荤比例（吃肉提高胃酸强度）",
+    "outcome": {
+      "status": "明显改善",
+      "description": "群友幽门螺杆菌四联杀了两次都没成功，靠忌口并加大吃荤比例后DOB值1.31检测转阴，感谢老师并总结吃肉提高胃酸强度才是压制幽门螺杆菌的王道手段"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182322_10013_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "幽门螺杆菌",
+      "胃酸",
+      "忌口",
+      "吃肉"
+    ],
+    "tp": [
+      "屏障消化与肠道"
+    ],
+    "summary": "幽门螺杆菌四联两次失败，忌口加吃荤转阴"
+  },
+  {
+    "id": "A2491",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "植物性饮食",
+      "动物伦理",
+      "食物系统",
+      "草饲牛肉"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "转发Ben Bikman观点：许多人选植物性饮食是为减少对动物和地球的伤害，但谷物豆类收割同样造成大量动物死亡——每100公斤小麦蛋白约导致55只动物死亡、草饲牛肉约2只；比较饮食应看全面结果而非只看最容易看到的死亡"
+    },
+    "summary": "植物饮食伦理：谷物收割同样致动物死亡",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182323_10014_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "植物性饮食",
+      "动物伦理",
+      "草饲牛肉"
+    ],
+    "tp": [
+      "饮食结构与膳食模式"
+    ]
+  },
+  {
+    "id": "A2492",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "游牧历史",
+      "草场资源",
+      "政权兴衰"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "从古代游牧军队牲畜配置讲到金灭北宋只用一年多、蒙古灭南宋花40多年及元朝短命，分析南方缺少草场、西方草场多等草场资源对游牧政权兴衰的影响"
+    },
+    "summary": "游牧政权兴衰取决于草场资源",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182342_10015_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "游牧历史",
+      "草场资源",
+      "历史"
+    ],
+    "tp": [
+      "其他/综合"
+    ]
+  },
+  {
+    "id": "A2493",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "红光产品",
+      "红光毯",
+      "三板斧",
+      "营养素协同"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "已买三个红光生发帽、觉得照身体部位有效，计划再用红光睡袋解决更多问题；商量老人每周升一档、次数渐增配合三板斧调理，孩子按学习时间每天照15到30分钟、周末更久，认为红光与营养素是协同、渐进改善的过程"
+    },
+    "summary": "红光毯配合三板斧渐进调理方案",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182410_10016_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182411_10017_3.jpg",
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182417_10018_3.jpg"
+    ],
+    "captions": [
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "红光产品",
+      "红光毯",
+      "三板斧",
+      "经验分享"
+    ],
+    "tp": [
+      "物理干预与能量医学"
+    ]
+  },
+  {
+    "id": "A2494",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "尿频"
+    ],
+    "supplement": [
+      "三板斧"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "有所改善",
+      "description": "非常认可疾病源于营养素缺乏的理念；母亲原来每晚起三次夜，服用三板斧后一宿只起一两次、改变比较大；因全家服用每月支出不少，在标准剂量之下自行减半服用"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182418_10019_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "尿频",
+      "三板斧",
+      "营养素缺乏",
+      "经验分享"
+    ],
+    "tp": [
+      "解毒肝肾与排毒"
+    ],
+    "summary": "母亲服三板斧起夜由三次减至一两次"
+  },
+  {
+    "id": "A2495",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "感染"
+    ],
+    "supplement": [
+      "维生素C"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "有所改善",
+      "description": "称家里营养素好、儿子就是证明，这次感冒吃维C后真的效果好，于是在身边主动做宣传推荐，别人说感冒自己也推荐吃维C"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182434_10025_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "感染",
+      "维生素C",
+      "儿童健康",
+      "经验分享"
+    ],
+    "tp": [
+      "免疫自免与过敏"
+    ],
+    "summary": "儿子感冒吃维C效果好主动推荐"
+  },
+  {
+    "id": "A2496",
+    "type": "discussion",
+    "user": "群友",
+    "topic": [
+      "胆固醇",
+      "动脉粥样硬化",
+      "血脂",
+      "体检"
+    ],
+    "outcome": {
+      "status": "",
+      "description": "体检发现同事血脂正常却有颈动脉斑块，自己胆固醇严重超标但颈动脉超声、冠脉CT显示血管非常干净，认为胆固醇与斑块两者只是相关性而非因果性"
+    },
+    "summary": "胆固醇超标但血管干净，血脂斑块非因果",
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182453_10026_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "胆固醇",
+      "动脉粥样硬化",
+      "血脂",
+      "体检",
+      "动脉斑块"
+    ],
+    "tp": [
+      "血管血液与微循环",
+      "功能医学检测与评估"
+    ]
+  },
+  {
+    "id": "A2497",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "乏力",
+      "犯困",
+      "肠道不适"
+    ],
+    "supplement": [],
+    "diet": "用排除法去掉大豆油（种子油），主食只吃大米、小米、红薯、土豆，不吃面粉制品，想吃脂肪时改吃肥肉或坚果",
+    "outcome": {
+      "status": "有所改善",
+      "description": "转发评论：吃米饭加种子油就犯困、身体很累，医院做5小时血糖和胰岛素释放及C肽试验排除糖尿病；用排除法把大豆油踢出后症状好转，改吃肥肉坚果后精力好多了；另称面粉让肠道不舒服，上述四样主食肠道接受度高"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182454_10027_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "乏力",
+      "犯困",
+      "种子油",
+      "大豆油",
+      "肠道不适",
+      "排除法"
+    ],
+    "tp": [
+      "能量线粒体与代谢",
+      "屏障消化与肠道",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "去掉大豆油后疲劳好转，面粉致肠道不适"
+  },
+  {
+    "id": "A2498",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "皮肤暗黄",
+      "长痘"
+    ],
+    "supplement": [
+      "VC胶原"
+    ],
+    "diet": "",
+    "outcome": {
+      "status": "明显改善",
+      "description": "称喝VC胶原后皮肤看得见地白皙透亮，每天午睡醒来照镜子都被自己的皮肤状态惊艳；对比以前皮肤又黄又黑还长痘，都没勇气照镜子"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182518_10028_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "皮肤暗黄",
+      "长痘",
+      "VC胶原",
+      "皮肤美容"
+    ],
+    "tp": [
+      "运动五官与结缔组织",
+      "氧化还原与抗氧化防御"
+    ],
+    "summary": "喝VC胶原后皮肤白皙透亮不再长痘"
+  },
+  {
+    "id": "A2499",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "运动耐力差"
+    ],
+    "supplement": [
+      "补剂",
+      "电解质",
+      "盐"
+    ],
+    "diet": "生酮、几乎纯肉",
+    "outcome": {
+      "status": "明显改善",
+      "description": "转发生酮提升耐力内容；网友称之前运动不了的，自从生酮、几乎纯肉加补剂后可以跑马拉松、经常去爬山；评论提到电解质在前、盐脂肪其后"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182519_10029_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "运动耐力差",
+      "生酮",
+      "纯肉饮食",
+      "补剂",
+      "电解质"
+    ],
+    "tp": [
+      "能量线粒体与代谢",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "生酮近乎纯肉加补剂后能跑马拉松"
+  },
+  {
+    "id": "A2500",
+    "type": "case",
+    "user": "群友",
+    "problem": [
+      "感染",
+      "皮疹"
+    ],
+    "supplement": [
+      "补剂"
+    ],
+    "diet": "天天吃肉、饮食改变",
+    "outcome": {
+      "status": "明显改善",
+      "description": "称孩子从小年年感冒，这两年感冒吃补剂自己就好、皮肤也不再冒疹子；自己以往感冒必须打针挂水，现在一年没感冒；指责家人不信饮食改变根治、动不动去医院，称孩子天天吃肉也没积食没感冒"
+    },
+    "file": [
+      "https://cdn.jsdelivr.net/gh/liuchenyu26131/case-images@main/微信图片_20261121182520_10030_3.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "tags": [
+      "感染",
+      "皮疹",
+      "补剂",
+      "儿童健康",
+      "饮食改变"
+    ],
+    "tp": [
+      "免疫自免与过敏",
+      "饮食结构与膳食模式"
+    ],
+    "summary": "孩子感冒吃补剂自愈，本人一年没感冒"
   }
 ]
